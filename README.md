@@ -10,7 +10,7 @@ On a d'abord le nom de la personne qui est passée en gros
 on a ensuite le nom du film puis le nom du réalisateur et l'année du film
 
 # Brad Pitt & David Leitch :
-Fight Club de David Fincher (1999)
+Fight Club de David Fincher (1999)\
 Troie de Wolfgang Petersen (2004)
 Mr. et Mrs. Smith de Doug Liman (2005)
 Le Mexicain de Gore Verbinski (2001)
