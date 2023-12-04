@@ -1,13 +1,15 @@
 # Konbini Video Club
 Ceci est un github qui récapitule les films cités par les personnes qui sont passées dans le Konbini Video Club.
 
-Je n'ai pas mis les doublons de films quand un film a été cité plus de deux fois, je ne l'ai pas mis dans la liste, j'ai du peut être en oublié car la liste m'a vraiment pris du temps à faire, parce que c'est super long mais à priori il n'y a pas de doublons, les seuls doublons qui sont présents sont les doublons qui sont réalisées par d'autres réalisateurs (Exemple : Suspiria ou The Guilty), il y'a peut être quelques films que j'ai oublié parce que au début je pensais que j'allais la garder pour moi mais j'ai changé mon avis. Du coup certains films je l'ai ai pas mis parce que je l'ai pas vraiment aimé.
+Je n'ai pas mis les doublons de films quand un film fait par le même réalisateur a été cité dans deux épisodes différents , je ne l'ai pas mis dans la liste, j'ai du peut être en oublié car la liste m'a vraiment pris du temps à faire et il y'a tellement de titre à faire que c'est super long, à priori il n'y a pas de doublons, les seuls doublons qui sont présents sont les doublons qui sont réalisées par d'autres réalisateurs (Exemple : Suspiria réalisé par Argento et celui réalisé par Guadagnino), il y'a peut être quelques films que j'ai oublié parce que au début je pensais que j'allais la garder pour moi mais j'ai changé mon avis. Du coup certains films je l'ai ai pas mis parce que je l'ai pas vraiment aimé.
 
 > Je sais qu'une liste existe sur SensCritique mais elle n'est pas complète au moment ou j'ai décidé de faire cette liste sinon je l'aurais pas faite.
 
 La liste est formalisé de cette manière :
 On a d'abord le nom de la personne qui est passée en gros
 on a ensuite le nom du film puis le nom du réalisateur et l'année du film
+
+
 
 # Brad Pitt & David Leitch :
 Fight Club de David Fincher (1999)\
