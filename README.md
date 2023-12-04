@@ -29,7 +29,7 @@ The Order de Sheldon Lettich (2001)\
 Les Trois Jours du Condor de Sydney Pollack (1975)\
 L’Exorciste de William Friedkin (1973)\
 Amy de Asif Kapadia (2015)\
-Seven de David Fincher (1995)\
+Seven de David Fincher (1995)
 
 # Cillian Murphy & Christopher Nolan :
 Le Prestige de Nolan (2006)\
