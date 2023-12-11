@@ -1946,4 +1946,4 @@ Poissonsexe de Olivier Babinet (2020)\
 La mort de Danton de Alice Diop (2011)\
 Boyz n The Hood de John Singleton (1991)\
 Menace II Society de Albert & Allen Hughes (1993)\
-New Jack City de Mario Van Peebles (1991)\
+New Jack City de Mario Van Peebles (1991)
