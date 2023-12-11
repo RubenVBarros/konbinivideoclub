@@ -1931,3 +1931,19 @@ Take this waltz de Sarah Polley (2011)\
 Women Talking de Sarah Polley (2022)\
 Seuls les anges ont des ailes de Howard Hawks (1939)\
 Lost in translation de Sofia Coppola (2003)
+
+# Ladj Ly :
+Bâtiment 5 de Ladj Ly (2023)\
+Sheitan de Kim Chapiron (2006)\
+365 jours à Clichy-Montfermeil de Ladj Ly (2007)\
+A voix haute : La force de la parole de Ladj Ly & Stéphane de Freitas (2016)\
+Go fast connexion de Ladj Ly (2008)\
+Leila & ses frères de Saeed Roustayi (2022)\
+Dalva de Emmanuelle Nicot (2023)\
+Easy Pizza Riderz de Romain Gavras (2002)\
+Le ravissement de Iris Kaltenback (2023)\
+Poissonsexe de Olivier Babinet (2020)\
+La mort de Danton de Alice Diop (2011)\
+Boyz n The Hood de John Singleton (1991)\
+Menace II Society de Albert & Allen Hughes (1993)\
+New Jack City de Mario Van Peebles (1991)\
