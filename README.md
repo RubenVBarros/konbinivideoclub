@@ -1947,3 +1947,39 @@ La mort de Danton de Alice Diop (2011)\
 Boyz n The Hood de John Singleton (1991)\
 Menace II Society de Albert & Allen Hughes (1993)\
 New Jack City de Mario Van Peebles (1991)
+
+# Eva Green & Martin Borboulon :
+Eiffel de Martin Borboulon (2021)\n
+Les trois mousquetaires : Milady de Martin Borboulon (2023)\n
+Dark Shadow de Tim Burton (2012)\n
+300 : La naissance d'un empire de Noam Murro (2014)\n
+Kingdom of Heaven de Ridley Scott (2005)\n
+Les trois mousquetaires : D'artagnan de Martin Borboulon (2023)\n
+Penny Dreadful de John Logan (2014 - 2016) (Série TV)\n
+Papa ou Maman 2 de Martin Borboulon (2016)\n
+Proxima de Alice Winocour (2019)\n
+Perfect Sense de David Mackenzie (2011)\n
+Papa ou Maman de Martin Borboulon (2015)\n
+Sin City : J'ai tué pour elle de Frank Miller & Robert Rodriguez (2014)\n
+Innocents : The Dreamers de Bernardo Bertolucci (2003)\n
+Dumbo de Tim Burton (2019)\n
+Le temps des gitans de Emir Kusturica (1988)\n
+Cris et Chuchotements de Ingmar Bergman (1972)\n
+As bestas de Rodrigo Sorogoyen (2022)\n
+Yannick de Quentin Dupieux (2023)\n
+Barbie de Greta Gerwig (2023)\n
+L'amour et les forêts de Valérie Donzelli (2023)\n
+Houria de Mounia Meddour (2023)\n
+Papicha de  Mounia Meddour (2019)\n
+The servant de Joseph Losey (1963)\n
+Arsène Lupin de Jean-Paul Salomé (2004)\n
+Vernon Subutex de Cathy Verney (2019)\n
+Le règne animal de Thomas Cailley (2023)\n
+La fille de d'Artagnan de Bertrand Tavernier (1994)\n
+L'histoire d'Adèle H de François Truffaut (1975)\n
+La lecon de piano de Jane Campion (1993)\n
+Big Fish de Tim Burton (2004)\n
+White Bird de Gregg Araki (2014)\n
+Les liaisons dangereuses de Stephen Frears (1988)\n
+L'homme au masque de fer de Randall Wallace (1998)\n
+Corsage de Marie Kreutzer (2022)
