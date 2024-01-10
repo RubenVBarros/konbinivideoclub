@@ -1317,7 +1317,7 @@ Kidding de Dave Holstein (2018-2020) (Série TV)\
 I Think you should leave with Tim Robinson (Depuis 2019) (Série TV)\
 Hoop dreams de Steve James (1994)\
 Spelling the dream de Sam Rega (2020)\
-The Wall de Pink Floyd (1982)\
+Pink Floyd : The Wall de Alan Parker (1982)\
 Interstella 5555: The Story of the Secret Star System de Kazuhisa Takenouchi (2003)
 
 # Gustave Kervern & Benoît Delépine : 
@@ -1949,37 +1949,65 @@ Menace II Society de Albert & Allen Hughes (1993)\
 New Jack City de Mario Van Peebles (1991)
 
 # Eva Green & Martin Borboulon :
-Eiffel de Martin Borboulon (2021)\n
-Les trois mousquetaires : Milady de Martin Borboulon (2023)\n
-Dark Shadow de Tim Burton (2012)\n
-300 : La naissance d'un empire de Noam Murro (2014)\n
-Kingdom of Heaven de Ridley Scott (2005)\n
-Les trois mousquetaires : D'artagnan de Martin Borboulon (2023)\n
-Penny Dreadful de John Logan (2014 - 2016) (Série TV)\n
-Papa ou Maman 2 de Martin Borboulon (2016)\n
-Proxima de Alice Winocour (2019)\n
-Perfect Sense de David Mackenzie (2011)\n
-Papa ou Maman de Martin Borboulon (2015)\n
-Sin City : J'ai tué pour elle de Frank Miller & Robert Rodriguez (2014)\n
-Innocents : The Dreamers de Bernardo Bertolucci (2003)\n
-Dumbo de Tim Burton (2019)\n
-Le temps des gitans de Emir Kusturica (1988)\n
-Cris et Chuchotements de Ingmar Bergman (1972)\n
-As bestas de Rodrigo Sorogoyen (2022)\n
-Yannick de Quentin Dupieux (2023)\n
-Barbie de Greta Gerwig (2023)\n
-L'amour et les forêts de Valérie Donzelli (2023)\n
-Houria de Mounia Meddour (2023)\n
-Papicha de  Mounia Meddour (2019)\n
-The servant de Joseph Losey (1963)\n
-Arsène Lupin de Jean-Paul Salomé (2004)\n
-Vernon Subutex de Cathy Verney (2019)\n
-Le règne animal de Thomas Cailley (2023)\n
-La fille de d'Artagnan de Bertrand Tavernier (1994)\n
-L'histoire d'Adèle H de François Truffaut (1975)\n
-La lecon de piano de Jane Campion (1993)\n
-Big Fish de Tim Burton (2004)\n
-White Bird de Gregg Araki (2014)\n
-Les liaisons dangereuses de Stephen Frears (1988)\n
-L'homme au masque de fer de Randall Wallace (1998)\n
+Eiffel de Martin Borboulon (2021)\
+Les trois mousquetaires : Milady de Martin Borboulon (2023)\
+Dark Shadow de Tim Burton (2012)\
+300 : La naissance d'un empire de Noam Murro (2014)\
+Kingdom of Heaven de Ridley Scott (2005)\
+Les trois mousquetaires : D'artagnan de Martin Borboulon (2023)\
+Penny Dreadful de John Logan (2014 - 2016) (Série TV)\
+Papa ou Maman 2 de Martin Borboulon (2016)\
+Proxima de Alice Winocour (2019)\
+Perfect Sense de David Mackenzie (2011)\
+Papa ou Maman de Martin Borboulon (2015)\
+Sin City : J'ai tué pour elle de Frank Miller & Robert Rodriguez (2014)\
+Innocents : The Dreamers de Bernardo Bertolucci (2003)\
+Dumbo de Tim Burton (2019)\
+Le temps des gitans de Emir Kusturica (1988)\
+Cris et Chuchotements de Ingmar Bergman (1972)\
+As bestas de Rodrigo Sorogoyen (2022)\
+Yannick de Quentin Dupieux (2023)\
+Barbie de Greta Gerwig (2023)\
+L'amour et les forêts de Valérie Donzelli (2023)\
+Houria de Mounia Meddour (2023)\
+Papicha de  Mounia Meddour (2019)\
+The servant de Joseph Losey (1963)\
+Arsène Lupin de Jean-Paul Salomé (2004)\
+Vernon Subutex de Cathy Verney (2019)\
+Le règne animal de Thomas Cailley (2023)\
+La fille de d'Artagnan de Bertrand Tavernier (1994)\
+L'histoire d'Adèle H de François Truffaut (1975)\
+La lecon de piano de Jane Campion (1993)\
+Big Fish de Tim Burton (2004)\
+White Bird de Gregg Araki (2014)\
+Les liaisons dangereuses de Stephen Frears (1988)\
+L'homme au masque de fer de Randall Wallace (1998)\
 Corsage de Marie Kreutzer (2022)
+
+# Norman Reedus :
+The Walkind Dead : Daryl Dixon (série TV) (Depuis 2023)\
+Ride with Norman Reedus de Norman Reedus (Depuis 2016)\
+Death Stranding de Kojima Productions (jeu vidéo) (2019)\
+Triple 9 de John Hillcoat (2016)\
+Les anges de boston de Troy Duffy (1999)\
+Blade 2 de Guillermo Del Toro (2002)\
+The Beatnicks de Nicholson Williams (2001)\
+The Walking Dead de Frank Darabont (série TV) (2010-2022)\
+Barbarella de Roger Vadim (1968)\
+Macadam Cowboy de John Schlesinger (1969)\
+Dune de Denis Villeneuve (2021)\
+L'ombre du vampire de E. Elias Merhige (2000)\
+The loveless de Kathryn Bigelow & Monty Montgomery (1981)\
+The Bikeriders de Jeff Nichols (2013)\
+Mud : sur les rives du Mississippi de Jeff Nichols (2013)\
+Clean, Shaven de Lodge Kerrigan (1993)\
+Silent Hills (P.T) de Kojima Productions (jeu vidéo) (annulé)\
+Angel Heart : Aux portes de l'enfer de Alan Parker (1987)\
+Harry Potter et la coupe du feu de Mike Newell (2005)\
+Mr. Morgan's Last love de Sandra Nettelbeck (2013)\
+Black Panther de Ryan Coogler (2018)\
+A star is born de Bradley Cooper (2018)\
+Une étoile est née de Frank Piersen (1976)\
+La vie rêvée des anges de Erick Zonca (1998)\
+Charmed de Constance M. Burge (série TV) (1998-2006)\
+Sons of Anarcy de Kurt Sutter (série TV) (2008-2014)
