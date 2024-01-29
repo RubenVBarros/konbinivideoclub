@@ -2011,3 +2011,36 @@ Une étoile est née de Frank Piersen (1976)\
 La vie rêvée des anges de Erick Zonca (1998)\
 Charmed de Constance M. Burge (série TV) (1998-2006)\
 Sons of Anarcy de Kurt Sutter (série TV) (2008-2014)
+
+# Todd Haynes
+Poison de Todd Haynes (1991)\
+Safe de Todd Haynes (1995)\
+Loin du paradis de Todd Haynes (2002)\
+Velvet Goldmine de Todd Haynes (1998)\
+I'm not there de Todd Haynes (2007)\
+The Velvet underground de Todd Haynes (2021)\
+May December de Todd Haynes (2023)\
+L'éclipse de Michelangelo Antonioni (1962)\
+Le dernier des hommes de Friedrich Wilhelm Murnau (1924)\
+Tout les autres s'appelent Ali de Rainer Werner Fassbinder (1974)\
+Lili Marleen de Rainer Werner Fassbinder (1981)\
+Le mariage de Maria Braun de Rainer Werner Fassbinder (1979)\
+Le secret de Veronika Voss de Rainer Werner Fassbinder (1982)\
+Lola, une femme allemande de Rainer Werner Fassbinder (1981)\
+La vie invisible d'Euridice Gusmao de Karim Ainouz (2019)\
+Le jeu de la reine de Karim Ainouz (2023)\
+Tar de Todd Field (2022)\
+Ecrit sur du vent de Douglas Sirk (1956)\
+Brève rencontre de David Lean (1945)\
+Deux ou trois choses que je sais d'elle de Jean-Luc Goddard (1967)\
+Chant d'amour de Jean Genet (1975)\
+Jeanne Dielman, 23, quai du commerce, 1080 Bruxelles de Chantal Akerman (1976)\
+Nashville de Robert Altman (1975)\
+Short cuts de Robert Altman (1993)\
+Swoon de Tom Kalin (1992)\
+The Living End de Gregg Araki (1992)\
+Performance de Donald Cammell et Nicolas Roeg (1970)\
+Blow Job de Andy Warhol (1964)\
+River of grass de Kelly Reichardt (1995)\
+Old Joy de Kelly Reichardt (2006)\
+Moonage Daydream de Brett Morgen (2022)
