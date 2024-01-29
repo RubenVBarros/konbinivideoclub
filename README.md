@@ -2012,7 +2012,7 @@ La vie rêvée des anges de Erick Zonca (1998)\
 Charmed de Constance M. Burge (série TV) (1998-2006)\
 Sons of Anarcy de Kurt Sutter (série TV) (2008-2014)
 
-# Todd Haynes
+# Todd Haynes :
 Poison de Todd Haynes (1991)\
 Safe de Todd Haynes (1995)\
 Loin du paradis de Todd Haynes (2002)\
