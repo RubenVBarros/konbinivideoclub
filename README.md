@@ -1352,7 +1352,7 @@ La chute du faucon noir de Ridley Scott (2001)
 La main de dieu de Paolo Sorrentino (2021)\
 La guerra di mario de Antonio Capuano (2005)\
 Vito e gli altri de Antonio Capuano (1991)\
-Pianese Nunzio, 14 anni a maggio de Antonio Capuano (1996\
+Pianese Nunzio, 14 anni a maggio de Antonio Capuano (1996)\
 L’uomo in più (L’homme en plus) de Paolo Sorrentino (2001)\
 Nomadland de Chloé Zhao (2020)\
 This must be the place de Paolo Sorrentino (2011)\
@@ -2044,3 +2044,53 @@ Blow Job de Andy Warhol (1964)\
 River of grass de Kelly Reichardt (1995)\
 Old Joy de Kelly Reichardt (2006)\
 Moonage Daydream de Brett Morgen (2022)
+
+# Léa Seydoux :
+Les adieux à la reine de Benoît Jacquot (2012)\
+La belle et la bête de Christopher Gans (2014)\
+Mission impossible : Protocole fantôme de Brad Bird (2011)\
+Mourir peut attendre de Cary Joji Fukunaga (2021)\
+La bête de Bertrand Bonello (2024)\
+Trois noisettes pour Cendrillon de Vaclav Vorlicek (1973)\
+Daaaaaali! de Quentin Dupieux (2024)\
+Toute la beauté et le sans versé de Laura Poitras (2022)\
+Sur les quais de Elia Kazan (1954)\
+La maison dans l'ombre de Nicholas Ray (1951)\
+Le kid de Charlie Chaplin (1921)\
+Zazie dans le métro de Louis Malle (1960)\
+L'amour l'après-midi de Eric Rohmer (1972)\
+Le festin nu de David Cronenberg (1991)\
+Zelig de Woody Allen (1983)\
+Spectre de Sam Mendes (2015)\
+Touche pas à ma fille de Stan Dragoti (1989)\
+Allo mamman ici bébé de Amy Heckerling (1989)\
+Dune deuxième partie de Denis Villeneuve (2024)\
+La petite sirène de Tomoharu Katsumata (1975)\
+Le vent se lève de Hayao Miyazaki (2013)
+
+# Jodie Foster :
+Panic room de David Fincher (2002)\
+Inside man : L'homme de l'intérieur de Spike Lee (2006)\
+Le complexe du castor de Jodie Foster (2011)\
+True Detective : Night Country (série TV saison 4 de true detective) de Issa Lopez (2024)\
+Elysium de Neil Blomkamp (2013)\
+Désigné coupable de Kevin Macd,onald (2021)\
+Traffic de Steven Soderbergh (2001)\
+Insidious : The Red Door de Patrick Wilson (2023)\
+Ils reviennent... de Iss Lopez (2017)\
+La cabine des amoureux de Sergio Citti (1977)\
+House of cards (série TV) de Beau Willimon (2013-2018)\
+Blakc Mirror (série TV) de Charlie Brooker (depuis 2011)\
+Orange is the new black (série TV) de Jenji Kohan (2013-2019)\
+The last of us (série TV) de Craig Mazin & Neil Druckmann (Depuis 2023)\
+Babylon Berlin (série TV) de Tom Twyker, Achim von Borries & Hendrik Handloegten (Depuis 2017)\
+Le souffle au coeur de Louis Malle (1971)\
+Le petit homme de Jodie Foster (1991)\
+Freaky Friday : Dans la peau de ma mère de Mark Waters (2003)\
+Un vendredi dingue,dingue,dingue de Gary Nelson (1977)\
+Be Natural : l'histoire cachée d'Alice Guy-Blaché de Pamela B. Green (2019)\
+Star Wars, épisode IV : Un nouvel espoir de George Lucas (1977)\
+Passages de Ira Sachs (2023)\
+Le roi lion de Roger Allers & Rob Minkoff (1994)\
+Le roi lion 3 de Bradley Raymond (2004)\
+La petite sirène de John Musker & Ron Clements (1989)
