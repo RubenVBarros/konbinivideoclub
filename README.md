@@ -2074,7 +2074,7 @@ Inside man : L'homme de l'intérieur de Spike Lee (2006)\
 Le complexe du castor de Jodie Foster (2011)\
 True Detective : Night Country (série TV saison 4 de true detective) de Issa Lopez (2024)\
 Elysium de Neil Blomkamp (2013)\
-Désigné coupable de Kevin Macd,onald (2021)\
+Désigné coupable de Kevin Macdonald (2021)\
 Traffic de Steven Soderbergh (2001)\
 Insidious : The Red Door de Patrick Wilson (2023)\
 Ils reviennent... de Iss Lopez (2017)\
