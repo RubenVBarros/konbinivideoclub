@@ -93,7 +93,7 @@ Série Noire (1979) de Alain Corneau (1979)\
 Oscar de Édouard Molinaro (1967)\
 Fantomas se déchaîne de André Hunebelle (1965)\
 SSSSSSS de Bernard L. Kowalski (1973)\
-RRRRRRR de Alain Chabat (2004)\
+RRRRRRR!!! de Alain Chabat (2004)\
 La Cité de la peur de Alain Berbérian (1994)\
 Les Filous de Barry Levinson (1987)\
 Un Ticket pour deux de John Hughes (1987)\
@@ -2094,3 +2094,41 @@ Passages de Ira Sachs (2023)\
 Le roi lion de Roger Allers & Rob Minkoff (1994)\
 Le roi lion 3 de Bradley Raymond (2004)\
 La petite sirène de John Musker & Ron Clements (1989)
+
+# Florent Bernard :
+Groom de Studio Bagel (2018)\
+La flamme de Jonathan Cohen, Florent Berard & Jérémie Galan (2020)\
+La flamme : Les Aventuriers de Chupacabra de Jonathan Cohen & Jérémie Galan(2022)\
+Âges moyens de Florent Bernard pour Golden Moustache (2014)\
+Bloqués de Kyan Khojandi, Bruno Muschio, Orelsan, Gringe, Harry Tordjmar & Florent Bernard (2015-2016)\
+Jack Mimoun & les secrets de Val Verde de Malik Bentalha & Ludovic Colbeau-Justin (2022)\
+Vermines de Sébastien Vaniček (2023)\
+Nous, les Leroy de Florent Bernard (2024)\
+Les combattants de Thomas Cailley (2014)\
+X-Men l'affrontement final de Brett Ratner (2006)\
+Le procès Goldman de Cédric Kahn (2023)\
+Chiens de la casse de Jean-Baptiste Durand (2023)\
+Les simpson de Matt Groening (Depuis 1989)\
+Community de Dan Harmon (Série TV) (2009-2015)\
+La soupe au canard de Leo McCarey (1933)\
+Les vedettes de Jonathan Barré (2022)\
+Les gamins de Anthony Marciano (2013)\
+Les kaïra de Franck Gastambide (2012)\
+Mais qui a tué Pamela Rose de Éric Lartigua (2003)\
+Brice de Nice 3 : Le film en intégral de Florent Bernard (2016)\
+Tandem de Patrice Leconte (1987)\  
+Funny people de Judd Apatow (2009)\
+En cloque, mode d'emploi de Judd Apatow (2007)\
+The king of staten Island de Judd Apatow (2020)\
+Clerks : Les Employés modèles de Kevin Smith (1994)\
+Dogma de Kevin Smith (1999)\
+Celeste and Jess Forever de Leo Toland Krieger (2012)\
+Jurassic Park de Steven Spielberg (1993)\
+Le monde perdu : Jurassic Park de Steven Spielberg (1997)\
+The Master de Paul Thomas Anderson (2012)\
+Ce plaisie qu'on dit charnel de Mike Nichols (1971)\
+The Devil's rejects de Rob Zombie (2005)\
+Scream 3 de Wes Craven (2000)\
+Evil Dead 3 de Sam Raimi (1993)\
+Spider-man 2 de Sam Raimi (2004)\
+Dingo & Max de Kévin Lima (1995)\
