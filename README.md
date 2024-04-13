@@ -2131,4 +2131,4 @@ The Devil's rejects de Rob Zombie (2005)\
 Scream 3 de Wes Craven (2000)\
 Evil Dead 3 de Sam Raimi (1993)\
 Spider-man 2 de Sam Raimi (2004)\
-Dingo & Max de Kévin Lima (1995)\
+Dingo & Max de Kévin Lima (1995)
