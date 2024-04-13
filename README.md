@@ -2116,7 +2116,7 @@ Les gamins de Anthony Marciano (2013)\
 Les kaïra de Franck Gastambide (2012)\
 Mais qui a tué Pamela Rose de Éric Lartigua (2003)\
 Brice de Nice 3 : Le film en intégral de Florent Bernard (2016)\
-Tandem de Patrice Leconte (1987)\  
+Tandem de Patrice Leconte (1987)\ 
 Funny people de Judd Apatow (2009)\
 En cloque, mode d'emploi de Judd Apatow (2007)\
 The king of staten Island de Judd Apatow (2020)\
