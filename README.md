@@ -26,7 +26,7 @@ j'ai rajouté avant l'année (Série TV) pour préciser le fait qu'il parle d'un
 ## [Taika Waititi](#waititi)
 ## [Mathieu Kassovitz](#kassovitz)
 ## [Gaspar Noé](#noé)
-## [Quentin Dupieux](#dupieux)
+## [Quentin Dupieux (1ère apparition)](#dupieux)
 ## [Michel Hazanavicius](#hazanavicius)
 ## [Béatrice Dalle](#dalle)
 ## [Albert Dupontel](#dupontel)
