@@ -9,6 +9,8 @@ La liste est formalisé de cette manière :
 On a d'abord le nom de la personne qui est passée en gros
 on a ensuite le nom du film puis le nom du réalisateur et l'année du film
 
+Dans les récents épisodes du vidéo club ils ont commencé à mettre les séries évoqués par les invités, du coup quand c'est une série
+j'ai rajouté avant l'année (Série TV) pour préciser le fait qu'il parle d'une série.
 
 
 # Brad Pitt & David Leitch :
@@ -1831,7 +1833,6 @@ Wonder Woman de Patty Jenkins (2017)\
 Titanic de James Cameron (1997)
 
 # Asghar Farhadi :
-Où est la maison de mon ami ? de Abbas Kiarostami (1987)\
 The voices de Marjane Satrapi (2014)\
 A girl walks alone at night de Ana Lily Amirpour (2014)\
 Tales de Rakhshan Bani-Etemad (2014)\
@@ -1998,7 +1999,7 @@ Macadam Cowboy de John Schlesinger (1969)\
 Dune de Denis Villeneuve (2021)\
 L'ombre du vampire de E. Elias Merhige (2000)\
 The loveless de Kathryn Bigelow & Monty Montgomery (1981)\
-The Bikeriders de Jeff Nichols (2013)\
+The Bikeriders de Jeff Nichols (2023)\
 Mud : sur les rives du Mississippi de Jeff Nichols (2013)\
 Clean, Shaven de Lodge Kerrigan (1993)\
 Silent Hills (P.T) de Kojima Productions (jeu vidéo) (annulé)\
@@ -2020,7 +2021,6 @@ Velvet Goldmine de Todd Haynes (1998)\
 I'm not there de Todd Haynes (2007)\
 The Velvet underground de Todd Haynes (2021)\
 May December de Todd Haynes (2023)\
-L'éclipse de Michelangelo Antonioni (1962)\
 Le dernier des hommes de Friedrich Wilhelm Murnau (1924)\
 Tout les autres s'appelent Ali de Rainer Werner Fassbinder (1974)\
 Lili Marleen de Rainer Werner Fassbinder (1981)\
@@ -2132,3 +2132,98 @@ Scream 3 de Wes Craven (2000)\
 Evil Dead 3 de Sam Raimi (1993)\
 Spider-man 2 de Sam Raimi (2004)\
 Dingo & Max de Kévin Lima (1995)
+
+# Pablo Larraín
+Le comte de Pablo Larraín (2023)\
+Neruda de Pablo Larraín (2016)\
+Jackie de Pablo Larraín (2016)\
+Maria de Pablo Larraín (2025)\
+Spencer de Pablo Larraín (2021)\
+El Club de Pablo Larraín (2015)\
+No de Pablo Larraín (2012)\
+Fuga de Pablo Larraín (2006)\
+Gosses de Tokyo de Yasujiro Ozu (1932)\
+Femmes et voyous de Yasujiro Ozu (1933)\
+Histoires d'herbes flottantes de Yasujiro Ozu (1934)\
+Crépuscule à Tokyo de Yasujiro Ozu (1957)\
+Le goût du saké de Yasujiro Ozu (1962)\
+Copie Conforme de Abbas Kiarostami (2010)\
+La chimère de Alice Rohrwacher (2023)\
+Médée de Pier Paolo Pasolini (1969)\
+Cemtery of Splendour de Apichatpong Weerasethakul (2015)\
+Blow-up de Michelangelo Antonioni (1966)\
+Une histoire vraie de David Lynch (1999)\
+Boyhood de Richard Linklater (2014)\
+Scarface de Brian de Palma (1983)\
+Scarface de Howard Hawks (1932)\
+Ascenseur pour l'échaffaud (1958)\
+Beau travail de Claire Denis (1999)\
+Vivre sa vie de Jean-Luc Godard (1962)\
+Film Socialisme de Jean-Luc Godard (2010)
+
+# Ludovic et Zoran Boukherma
+Willy 1er de Ludovic & Zoran Boukherma, Marielle Gautier & Hugo P.Thomas (2016)\
+Leurs enfants après eux de Ludovic et Zoran Boukherma (2024)\
+Teddy de Ludovic & Zoran Boukherma (2020)\
+Perrault, la fontane, mon cul ! de Ludovic, Zoran Boukherma & Hugo P.Thomas (2015)\
+Furiosa : une saga Mad Max de George Miller (2024)\ 
+Mad max de George Miller (1979)\
+Le Bazaar de l'épouvante de Fraser Clarke Heston (1993)\
+"Il" est revenu de Tommy Lee Wallace & Lawrence D.Cohen (1990)\
+Misery de Rob Reiner (1990)\
+Les évadés de Frank Darabont (1994)\
+Beignets de tomates vertes de Jon Avnet (1991)\
+La tête dans le carton à chapeaux de Antonio Banderas (1999)\
+Le petit dinosaure et la vallée des merveilles de Don Bluth (1988)\
+Mars Attacks! de Tim Burton (1996)\
+Les contes de la crypte de William Gaines & Steven Dodd (Série TV) (1989-1996)\
+Buffy contre les vampires de Joss Whedon (Série TV) (1997-2003)\
+Louise-Michel de Gustave Kervern & Benoît Delépine (2008)\
+Ich bin eine tata de Ludovic et Zoran Boukherma, Marielle Gautier & Hugo P.Thomas (2014)\
+Mammuth de Benoît Delépine & Gustave Kervern (2010)\
+Poulet frites de Jean Libon & Yves Hinant (2022)\
+La cérémonie de Claude Chabrol (1995)\
+L'amour ouf de Gilles Lellouche (2024)\
+Idiocracy de Mike Judge (2006)
+
+# Jeff Nichols 
+
+# Ti West
+
+# Pedro Almodovar
+
+# Luca Guadagnino
+
+# Jesse Eisenberg
+
+# Hideo Kojima
+Le trou de Jacques Becker (1960)\
+Drive de Nicolas Winding Refn (2011)\
+Les gueules noires de Mathieu Turi (2023)\
+L'enfant d'en haut de Ursula Meier (2012)
+
+# Oliver Stone
+
+# Malik Bentalha
+
+# Reda Kateb
+
+# Noémie Merlant
+
+# Frank Dubosc
+
+# Robert Eggers
+
+# Ben Stiller
+
+# Vincent Cassel
+
+# Francis Ford Coppola
+
+# SCH
+
+# Gilles Lellouche
+
+# Denis Villeneuve
+
+# Viggo Mortensen
