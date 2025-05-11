@@ -12,6 +12,9 @@ on a ensuite le nom du film puis le nom du réalisateur et l'année du film
 Dans les récents épisodes du vidéo club ils ont commencé à mettre les séries évoqués par les invités, du coup quand c'est une série
 j'ai rajouté avant l'année (Série TV) pour préciser le fait qu'il parle d'une série.
 
+# Menu des invités :
+
+## [Hideo Kojima](#kojima)
 
 # Brad Pitt & David Leitch :
 Fight Club de David Fincher (1999)\
@@ -2196,7 +2199,7 @@ Idiocracy de Mike Judge (2006)
 
 # Jesse Eisenberg
 
-# Hideo Kojima
+# <a name='kojima'></a>Hideo Kojima
 Le trou de Jacques Becker (1960)\
 Drive de Nicolas Winding Refn (2011)\
 Les gueules noires de Mathieu Turi (2023)\
