@@ -14,9 +14,11 @@ j'ai rajouté avant l'année (Série TV) pour préciser le fait qu'il parle d'un
 
 # Menu des invités :
 
+## [Brad Pitt & David Leitch](#pitt-leitch)
+## 
 ## [Hideo Kojima](#kojima)
 
-# Brad Pitt & David Leitch :
+# <a name='pitt-leitch'></a>Brad Pitt & David Leitch :
 Fight Club de David Fincher (1999)\
 Troie de Wolfgang Petersen (2004)\
 Mr. et Mrs. Smith de Doug Liman (2005)\
@@ -38,7 +40,7 @@ L’Exorciste de William Friedkin (1973)\
 Amy de Asif Kapadia (2015)\
 Seven de David Fincher (1995)
 
-# Cillian Murphy & Christopher Nolan :
+# <a name='murphy-nolan'></a>Cillian Murphy & Christopher Nolan :
 Le Prestige de Nolan (2006)\
 Inception de Nolan (2010)\
 Interstellar de Nolan (2014)\
@@ -91,7 +93,7 @@ Chernobyl de Craig Marzin (Série TV) (2019)\
 Docteur Mabuse le joueur de Fritz Lang (Série TV Muette) (1924)\
 Furyo de Nagisa Oshima (1983)
 
-# Alain Chabat :
+# <a name='chabat'></a>Alain Chabat :
 Wrong de Quentin Dupieux (2012)\
 Nonfilm de Quentin Dupieux (2001)\
 Série Noire (1979) de Alain Corneau (1979)\
@@ -136,7 +138,7 @@ Christine de John Carpenter (1983)\
 The Thing de John Carpenter (1982)\
 Into the Spider Verse de Peter Ramsey, Bob Persichetti & Rodney Rothman (2018)
 
-# Alexandre Astier : 
+# <a name='astier'></a>Alexandre Astier : 
 Le Pigeon de Mario Monicelli (1958)\
 Les Acteurs de Bertrand Blier (2000)\
 Buffet Froid de Bertrand Blier (1979)\
@@ -152,7 +154,7 @@ Vestiges du jour de James Ivory (1993)\
 Les dents de la mer de Steven Spielberg (1975)\
 Vampires en toute intimité de Jemaine Clement & Taika Waititi (2014)
 
-# Edward Norton :
+# <a name='norton'></a>Edward Norton :
 Le faucon maltais de John Huston (1941)\
 Le grand sommeil de Howard Hawks (1946)\
 La Soif du mal de Orson Welles (1958)\
@@ -193,7 +195,7 @@ Parasite de Bong Joon-Ho (2019)\
 Le grand bain de Gilles Lellouche (2018)\
 Harold & Maude de Hal Ashby (1971)
 
-# Palmashow :
+# <a name='palmashow'></a>Palmashow :
 Crazy Kung-Fu de Stephen Chow  (2004)\
 Les petits mouchoirs de Guillaum Canet (2010)\
 9 mois ferme de Albert Dupontel (2013)\
@@ -228,7 +230,7 @@ Garden State de Zach Braff (2004)\
 Eddie the Eagle de Dexter Fletcher (2016)\
 Terrible Jungle  de Hugo Benamozig & David Caviglioli (2020)
 
-# Guillaume Canet :
+# <a name='canet'></a>Guillaume Canet :
 Les fils de l’homme de Alfonso Cuaron (2006)\
 A Beautiful Day de Lynne Ramsay (2017)\
 Roma de Alfonso Cuaron (2018)\
@@ -255,7 +257,7 @@ Moulin Rouge de Baz Luhrmann (2001)\
 La La Land de Damien Chazelle (2016)\
 The Notebook de Nick Cassavetes (2004)
 
-# Pierre Niney :
+# <a name='niney'></a>Pierre Niney :
 The Guilty de Gustav Moller (2018)\
 The Guilty de Antoine Fuqua (2021)\
 Night Call de Dan Gilroy (2014)\
@@ -304,7 +306,7 @@ Wallace & Gromit de Nick Park (1980)\
 Cro Man de Nick Park (2018)\
 Le Roi et l’oiseau de Paul Grimault (1953)
 
-# Dominique Farrugia :
+# <a name='farrugia'></a>Dominique Farrugia :
 Un éléphant ça trompe énormément de Yves Robert (1976)\
 Mei meilleures amies de Paul Feig (2011)\
 The Party de Blake Edwards (1968)\
@@ -330,7 +332,7 @@ Une affaire de famille de Hirokazu Kore-Eda (2018)\
 Old boy de Park Chan-Wook (2003)\
 La grande illusion de Jean Renoir (1937)
 
-# Taika Waititi :
+# <a name='waititi'></a>Taika Waititi :
 Her smell de Alex Ross Perry (2019)\
 Memories of murder de Bong Joon-Ho (2003)\
 Dracula de Francis Ford Coppola (1992)\
@@ -361,7 +363,7 @@ Cours après moi shérif de Hal Needham (1977)\
 La balade sauvage de Terrence Mallick (1973)\
 Master & Commander : De l’autre côté du monde de Peter Weir (2003)
 
-# Mathieu Kassovitz :
+# <a name='kassovitz'></a>Mathieu Kassovitz :
 Soy Cuba de Mikhail Kalatozov (1964)\
 1917 de Sam Mendes (2020)\
 Alien de Ridley Scott (1979)\
@@ -382,7 +384,7 @@ Rock n roll de Guillaum Canet (2017)\
 C’était un rendez-vous de Claude Lelouch (1976)\
 Knight of cups de Terrence Mallick (2015)
 
-# Gaspar Noé :
+# <a name='noé'></a>Gaspar Noé :
 Prova d’orchestra de Federico Fellini (1978)\
 La tour infernale de John Guillermin & Irwin Allen (1974)\
 L’aventure du poséidon de Ronald Neame (1972)\
@@ -403,7 +405,7 @@ Noé de Darren Aronofsky (2014)\
 Spring Breakers de Harmony Korine (2013)\
 Emmanuelle de Just Jaeckin (1974)
 
-# Quentin Dupieux :
+# <a name='dupieux'></a>Quentin Dupieux :
 Jeu d’enfant de Tom Holland (1988)\
 Re-animator de Stuart Gordon (1985)\
 It follows de David Robert Mitchell (2014)\
@@ -422,7 +424,7 @@ Wall-e d'Andrew Stanton (2008)\
 Les nouveaux sauvages de Damian Szifron (2014)\
 La douleur de Emmanuel Finkiel (2018)
 
-# Michel Hazanavicius :
+# <a name='hazanavicius'></a>Michel Hazanavicius :
 La marque du tueur de Seijun Suzuki (1967)\
 Requiem pour un massacre de Elem Klimov (1985)\
 Nous nous sommes tant aimés de Ettore Scola (1974)\
@@ -448,7 +450,7 @@ Un jour sans fin de Harold Ramis (1993)\
 Nos plus belles années de Sydney Pollack (2020)\
 1974, Une partie de campagne de Raymond Depardon (1974)
 
-# Béatrice Dalle :
+# <a name='dalle'></a>Béatrice Dalle :
 Le septième sceau de Ingmar Bergman (1957)\
 Les contes de Canterbury de Pier Paolo Pasolini (1972)\
 Querelle de Rainer Werner Fassbinder (1982)\
@@ -460,7 +462,7 @@ J’ai pas sommeil de Claire Denis (1994)\
 37°2 le matin de Jean-Jacques Beineix (1986)\
 Bad Lieutenant d'Abel Ferrara (1992)
 
-# Albert Dupontel :
+# <a name='dupontel'></a>Albert Dupontel :
 Ivre de Femmes et de peinture de Im Kwon-Taek (2002)\
 Heimat d' Edgar Reitz (1984-2012) (Série TV)\
 Au revoir là haut de Albert Dupontel (2017)\
@@ -486,7 +488,7 @@ Brazil de Terry Gilliam (1985)\
 Jabberwocky de Terry Gilliam (1977)\
 Le tombeau des lucioles de Isao Takahata (1998)
 
-# Romain Gavras :
+# <a name='gavras'></a>Romain Gavras :
 Les habitants de Raymond Depardon (2016)\
 Argo de Ben Affleck (2012)\
 Babe, le cochon dans la ville de George Miller (1999)\
@@ -513,7 +515,7 @@ Volte-face de John Woo (1997)\
 Ran de Akira Kurosawa (1985)\
 Le voyage de Chihiro de Hayao Miyazaki (2001)
 
-# Louis Garrel :
+# <a name='garrel'></a>Louis Garrel :
 Wonder Wheel de Woody Allen (2017)\
 Deadpool de Tim Miller (2016)\
 Lady Bird de Greta Gerwig (2017)\
@@ -533,7 +535,7 @@ L’esquive de Abdellatif Kechiche (2002)\
 Les baisers de secours de Philippe Garrel (1982)\
 Garçu de Maurice Pialat (1995)
 
-# Bertrand Blier :
+# <a name='blier'></a>Bertrand Blier :
 Guy de Alex Lutz (2018)\
 Girl de Lukas Dhont (2018)\
 Sonate d’automne de Ingmar Bergman (1978)\
@@ -544,7 +546,7 @@ Pater de Alain Cavalier (2011)\
 Les valseuses de Bertrand Blier (1974)\
 Les gens de la pluie de Francis Ford Coppola (1969)
 
-# Julia Ducournau :
+# <a name='ducournau'></a>Julia Ducournau :
 Battle Royale de Kinji Fukasaku (2001)\
 The chaser de Na Hong-Jin (2009)\
 The Strangers de Na Hong-Jin (2016)\
@@ -572,7 +574,7 @@ La colline a des yeux de Wes Craven (1979)\
 Grave de Julia Ducournau (2017)\
 Cannibal Holocaust de Ruggero Deodato (1981)
 
-# David Cronenberg :
+# <a name='cronenberg'></a>David Cronenberg :
 La strada de Federico Fellini (1955)\
 La dolce vita de Federico Fellini (1960)\
 Le casanova de Fellini de Federico Fellini (1977)\
@@ -603,7 +605,7 @@ Spider de David Cronenberg (2002)\
 Videodrome de David Cronenberg (1984)\
 Ne vous retournez pas de Nicolas Roeg (1974)
 
-# Charlotte Gainsbourg & Yvan Attal :
+# <a name='gainsbourg-attal'></a>Charlotte Gainsbourg & Yvan Attal :
 Les idiots de Lars Von Trier (1998)\
 Us de Jordan Peele (2019)\
 Shining de Stanley Kubrick (1980)\
@@ -617,7 +619,7 @@ Les menuisiers de Laurel et Hardy (1933)\
 Steamboat Willie de Walt Disney (1928)\
 La Castagne de George Roy Hill (1977)
 
-# Dany Boon :
+# <a name='boon'></a>Dany Boon :
 The Square de Ruben Ostlund (2017)\
 Les ailes du désir de Wim Wenders (1987)\
 21 grammes de Alejandro González Iñárritu (2003)\
@@ -647,7 +649,7 @@ Les compères de Francis Veber (1983)\
 Delicatessen de Jean-Pierre Jeunet et Marc Caro (1991)\
 Micmacs à tire-larigot de Jean-Pierre Jeunet (2009)
 
-# Claude Lelouch :
+# <a name='lelouch'></a>Claude Lelouch :
 Edith et Marcel de Claude Lelouch (1983)\
 Fargo de Joel et Ethan Coen (1996)\
 Barry Lyndon de Stanley Kubrick (1976)\
@@ -671,7 +673,7 @@ La pointe courte d' Agnès Varda (1956)\
 Fenêtre sur cour d'Alfred Hitchcock (1955)\
 Un homme et une femme de Claude Lelouch (1966)
 
-# Wes Anderson :
+# <a name='anderson'></a>Wes Anderson :
 La vengeance est à moi de Shohei Imamura (1982)\
 L’ange ivre de Akira Kurosawa (1948)\
 Simon du désert de Luis Bunuel (1965)\
@@ -704,7 +706,7 @@ Witness de Peter Weir (1985)\
 Neon Genesis Evangelion de Hideaki Anno (1994-2013)\
 Souvenirs goutte à goutte de Isao Takahata (1988)
 
-# Bong Joon-Ho :
+# <a name='joonho'></a>Bong Joon-Ho :
 Tokyo de Michel Gondry, Leos Carax & Bong Joon-Ho (2008)\
 L'événement de Audrey Diwan (2021)\
 Atlantique de Mati Diop (2019)\
@@ -755,7 +757,7 @@ As I Was Moving Ahead Occasionally I Saw Brief  Glimpses Of Beauty de Jonas Meka
 Les triplettes de Belleville de Sylvain Chomet (2003)\
 La planète sauvage de René Laloux (1973)
 
-# Michael B.Jordan :
+# <a name='jordan'></a>Michael B.Jordan :
 Fruitvale Station de Ryan Coogler (2013)\
 Chronicle de Josh Trank (2012)\
 Sans aucun remords de Stefano Sollima (2021)\
@@ -776,7 +778,7 @@ L’arnaque de George Roy Hill (1974)\
 Princesse Mononoké de Hayao Miyazaki (2000)\
 Hajime No Ippo de Madhouse & ADN (Depuis 2000)
 
-# Jamel Debbouze :
+# <a name='debbouze'></a>Jamel Debbouze :
 Affreux, sales et méchants de Ettore Scola (1976)\
 Parlez-moi de la pluie d' Agnès Jaoui (2008)\
 Indigènes de Rachid Bouchareb (2006)\
@@ -791,7 +793,7 @@ Rocky de John G. Avildsen (1976)\
 Beat street de Stan Lathan (1984)\
 Dr. Dolittle de Betty Thomas (1998)
 
-# Jean-Pierre Jeunet :
+# <a name='jeunet'></a>Jean-Pierre Jeunet :
 Il était une fois dans l’ouest de Sergio Leone (1969)\
 L’ami américain de Wim Wenders (1977)\
 Your Honor de Peter Moffatt (2020)\
@@ -812,7 +814,7 @@ Will Hunting de Gus Van Sant (1998)\
 Le conte des contes de Iouri Norstein (1979)\
 Soul de Pete Docter & Kemp Powers (2020)
 
-# Michael Bay :
+# <a name='bay'></a>Michael Bay :
 Blood Simple de Joel & Ethan Coen (1985)\
 Ambulance de Michael Bay (2022)\
 Les aventuriers de l’arche perdue de Steven Spielberg (1981)\
@@ -823,7 +825,7 @@ Pearl Harbor de Michael Bay (2001)\
 Point Break de Kathryn Bigelow (1991)\
 Braveheart de Mel Gibson (1995)
 
-# Fianso :
+# <a name='fianso'></a>Fianso :
 La vie est belle de Roberto Benigni (1997)\
 Opération Dragon de Robert Clouse (1973)\
 Le jeu de la mort de Robert Clouse (1978)\
@@ -845,7 +847,7 @@ Les princes de la ville de Taylor Hackford (1993)\
 Sans rémission de Edward James Olmos (1992)\
 Le message de Moustapha Akkad (1976)
 
-# Terry Gilliam :
+# <a name='gilliam'></a>Terry Gilliam :
 Pasqualino de Lina Wertmüller (1975)\
 Vers un destin insolite sur les flots bleus de l’été de Lina Wertmüller (1975)\
 Ivan le Terrible de Sergueï Eisenstein (1944)\
@@ -865,7 +867,7 @@ Enfermés dehors de Albert Dupontel (2006)\
 Pinocchio de Hamilton Luske & Ben Sharpsteen (1940)\
 South park : le film de Trey Parker (1999)
 
-# Quentin Dupieux (le retour) :
+# <a name='dupieux2'></a>Quentin Dupieux (le retour) :
 Swallow de Carlo Mirabella-Davis (2019)\
 Sans filtre de Ruben Ostlund (2022)\
 S.O.B de Blake Edwards (1984)\
@@ -887,7 +889,7 @@ L’armée du requin de Ludovic Boukherma & Zoran Boukherma (2022)\
 Tout simplement noir de Jean-Pascal Zidi & John Wax (2020)\
 Vice versa de Pete Docter (2015)
 
-# Manu Payet :
+# <a name='payet'></a>Manu Payet :
 The Dream Team de Howard Zieff (1989)\
 L’as des as de Gérard Oury (1982)\
 Je préfère qu’on reste amis de Olivier Nakache et Eric Toledano (2005)\
@@ -903,7 +905,7 @@ Good morning Vietnam de Barry Levinson (1988)\
 Tootsie de Sydney Pollack (1982)\
 Kingpin de Peter Farrelly et Bobby Farrelly (1996)
 
-# Danny Boyle :
+# <a name='boyle'></a>Danny Boyle :
 Apocalypse now de Francis Ford Coppola (1979)\
 Yesterday de Danny Boyle (2019)\
 Baby Driver de de Edgar Wright (2017)\
@@ -918,7 +920,7 @@ L’été meurtrier de Jean Becker (1983)\
 Solaris d'Andreï Tarkovski (1972)\
 La chambre du fils de Nanni Moretti (2001)
 
-# Virginie Efira :
+# <a name='efira'></a>Virginie Efira :
 Rien que pour vos yeux de John Glen (1981)\
 Tuer n’est pas jouer de John Glen (1987)\
 Katie Tippel de Paul Verhoeven (1975)\
@@ -946,7 +948,7 @@ Blue Velvet de David Lynch (1987)\
 Gone Girl de David Fincher (2014)\
 Le garçon et la bête de Mamoru Hosoda (2015)
 
-# Charlotte Le Bon :
+# <a name='lebon'></a>Charlotte Le Bon :
 The Innocents de Eskil Vogt (2021)\
 Thelma de Joachim Trier (2017)\
 Border de Ali Abassi (2019)\
@@ -967,7 +969,7 @@ Donnie Darko de Richard Kelly (2001)\
 Une place au soleil de George Stevens (1951)\
 In the cut de Jane Campion (2003)
 
-# Cédric Klapisch :
+# <a name='klapisch'></a>Cédric Klapisch :
 Les demoiselles de Rochefort de Jacques Demy (1967)\
 Un singe en hiver de Henri Verneuil (1962)\
 La mort aux trousses de Alfred Hitchcock (1959)\
@@ -975,7 +977,7 @@ Le péril jeune de Cédric Klapisch (1994)\
 Austin Powers 2 de Jay Roach (1999)\
 Les sept samouraïs de Akira Kurosawa (1954)
 
-# Vincent Macaigne :
+# <a name='macaigne'></a>Vincent Macaigne :
 Indiana Jones et le Temple Maudit de Steven Spielberg (1984)\
 No country for old men de Joel et Ethan Coen (2008)\
 L’ours de Jean-Jacques Annaud (1988)\
@@ -994,7 +996,7 @@ Le bal des vampires de Roman Polanski (1967)\
 Vol au dessus d’un nid de coucou de Milos Forman (1976)\
 La guerre des rose de Danny Devito (1989)
 
-# Thierry Frémaux :
+# <a name='fremaux'></a>Thierry Frémaux :
 Vincere de Marco Bellocchio (2009)\
 Madame Sata de Karim Aïnouz (2003)\
 Haut les coeurs de Solveig Anspach (1999)\
@@ -1022,7 +1024,7 @@ La balade de buster scruggs de Joel et Ethan Coen (2018)\
 Very bad trip de Todd Phillips (2019)\
 Joker de Todd Phillips (2019)
 
-# Alejandro Gonzalez Inarritu :
+# <a name='inarritu'></a>Alejandro Gonzalez Inarritu :
 Amours chiennes de Alejandro G. Inarritu (2000)\
 Babel de Alejandro G. Inarritu (2006)\
 Douleur et gloire de Pedro Almodovar (2019)\
@@ -1042,7 +1044,7 @@ Révélations de Michael Mann (1999)\
 Garra de tigre de Hernando Name (1989)\
 L’étrange histoire de Benjamin Button de David Fincher (2009)
 
-# Kore-Eda :
+# <a name='koreeda'></a>Kore-Eda :
 Poussières dans le vent de Hou Hsiao-Hsien (1986)\
 Ilo Ilo de Anthony Chen (2013)\
 Le petit garçon de Nagisa Oshima (1969)\
@@ -1058,7 +1060,7 @@ Contact de Robert Zemeckis (1997)\
 Avatar de James Cameron (2009)\
 Castle in the sky de Hayao Miyazaki (2003)
 
-# Toledano & Nakache :
+# <a name='toledano-nakache'></a>Toledano & Nakache :
 The Upside de Neil Burger (2019)\
 Je vais craquer de François Leterrier (1980)\
 Tout ce qui brille de Géraldine Nakache & Hervé Mimran (2010)\
@@ -1086,7 +1088,7 @@ Jurassic World de Colin Trevorrow (2015)\
 Juste un baiser de Gabriele Muccino (2002)\
 Les neuf reines de Fabian Bielinsky (2002)
 
-# Xavier Dolan :
+# <a name='dolan'></a>Xavier Dolan :
 Seule la terre de Francis Lee (2017)\
 Ammonite de Francis Lee (2020)\
 Un coeur en hiver de Claude Sautet (1992)\
@@ -1112,7 +1114,7 @@ Matthias et Maxime de Xavier Dolan (2019)\
 Ça : chapitre 2 de Andy Muschietti (2019)\
 Les amours imaginaires de Xavier Dolan (2010)
 
-# Rebecca Zlotowski :
+# <a name='zlotowski'></a>Rebecca Zlotowski :
 Suits de Aaron Korsh (2011-2019) (série)\
 Girls de Lena Dunham (2012-2017) (série)\
 La collectionneuse de Eric Rohmer (1967)\
@@ -1135,7 +1137,7 @@ Rencontre avec Joe Black de Martin Brest (1998)\
 Je la connaissais bien de Antonio Pietrangeli (1966)\
 De bruit et de fureur de Jean-Claude Brisseau (1988)
 
-# Nicolas Bedos :
+# <a name='bedos'></a>Nicolas Bedos :
 Le guépard de Luchino Visconti (1963)\
 Marie Stuart, Reine d’écosse de Josie Rourke (2019)\
 Moi, Tonya de Craig Gillepsie (2018)\
@@ -1155,7 +1157,7 @@ Là-haut de Pete Docter, Bob Peterson (2009)\
 Monsieur & Madame Adelman de Nicolas Bedos & Doria Tillier (2017)\
 Les temps moderne de Charlie Chaplin (1936)
 
-# Claire Denis :
+# <a name='denis'></a>Claire Denis :
 Les amants du pont-neuf de Leos Carax (1991)\
 La vie aquatique de Wes Anderson (2005)\
 Papy fait de la résistance de Jean-Marie Poiré (1983)\
@@ -1165,7 +1167,7 @@ Paris, Texas de Wim Wenders (1984)\
 2001 : Odyssée de l’espace de Stanley Kubrick (1968)\
 Minority Report de Steven Spielberg (2002)
 
-# Richard Kelly :
+# <a name='kelly'></a>Richard Kelly :
 La favorite de Yorgos Lanthimos (2019)\
 The Neon Demon de Nicolas Winding Refn (2016)\
 Domino de Tony Scott (2005)\
@@ -1178,7 +1180,7 @@ En quatrième vitesse de Robert Aldrich (1955)\
 L’inconnu au nord-express de Alfred Hitchcock (1952)\
 Twin peaks - the return de David Lynch (2017)
 
-# Alexandre Aja :
+# <a name='aja'></a>Alexandre Aja :
 Suspiria de Luca Guadagnino (2018)\
 Mandy de Panos Cosmatos (2018)\
 Massacre à la tronçonneuse de Tobe Hooper (1974)\
@@ -1195,7 +1197,7 @@ Seul contre tous de Gaspar Noé (1999)\
 Maniac de Franck Khalfoun (2012)\
 Dune de David Lynch (1984)
 
-# Jason Blum :
+# <a name='blum'></a>Jason Blum :
 Midsommar de Ari Aster (2019)\
 The Visit de M. Night Shyamalan (2015)\
 Split de M. Night Shyamalan (2017)\
@@ -1218,7 +1220,7 @@ Grease de Randal Kleiser (1978)\
 Rebecca de Alfred Hitchcock (1940)\
 The General de Buster Keaton (1926)
 
-# James Mangold :
+# <a name='mangold'></a>James Mangold :
 Un condamné à mort s’est échappé de Robert Bresson (1956)\
 Le mans de Lee H. Katzin (1971)\
 Logan de James Mangold (2017)\
@@ -1246,7 +1248,7 @@ Wolverine : Le combat de l’immortel de James Mangold (2013)\
 La femme des sables de Yoshi Teshigahara (1964)\
 Heavy de James Mangold (1995)
 
-# Night Shyamalan :
+# <a name='shyamalan'></a>Night Shyamalan :
 Le village de M. Night Shyamalan (2004)\
 Incassable de M. Night Shyamalan (2000)\
 Knock at the cabin de M. Night Shyamalan (2023)\
@@ -1268,7 +1270,7 @@ Nola Darling n’en fait qu’à sa tête de Spike Lee (1987)\
 La randonnée de Nicolas Roeg (1972)\
 Harry Potter et l’ordre du phénix de David Yates (2007)
 
-# Hugh Jackman & Florian Zeller :
+# <a name='jackman-zeller'></a>Hugh Jackman & Florian Zeller :
 X-men de Bryan Singer (2000)\
 The greatest Showman de Michael Gracey (2018)\
 The son de Florian Zeller (2023)\
@@ -1291,7 +1293,7 @@ Inland Empire de David Lynch (2007)\
 Sailor et Lula de David Lynch (1990)\
 Le silence des agneaux de Jonathan Demme (1991)
 
-# Michel Gondry : 
+# <a name='gondry'></a>Michel Gondry : 
 Un été avec monika de Ingmar Bergman (1954)\
 Snow Therapy de Ruben Ostlund (2015)\
 Tokyo! Interior Design de Michel Gondry (2008)\
@@ -1325,7 +1327,7 @@ Spelling the dream de Sam Rega (2020)\
 Pink Floyd : The Wall de Alan Parker (1982)\
 Interstella 5555: The Story of the Secret Star System de Kazuhisa Takenouchi (2003)
 
-# Gustave Kervern & Benoît Delépine : 
+# <a name='kervern-delépine'></a>Gustave Kervern & Benoît Delépine : 
 Breaking Bad de Vince Gilligan (2008-2013) (Série TV)\
 L’âge d’or de Luis Bunuel (1930)\
 The swimmer de Frank Perry (1968)\
@@ -1336,7 +1338,7 @@ The social network de David Fincher (2010)\
 I feel good de Benoît Delépine & Gustave Kervern (2017)\
 Saint amour de  Benoît Delépine & Gustave Kervern (2016)
 
-# Jerry Bruckheimer :
+# <a name='bruckheimer'></a>Jerry Bruckheimer :
 Yojimbo de Akira Kurosawa (1961)\
 Le retour du dragon de Bruce Lee (1972)\
 Rocketman de Dexter Fletcher (2019)\
@@ -1353,7 +1355,7 @@ Déjà vu de Tony Scott (2006)\
 Top gun de Tony Scott (1986)\
 La chute du faucon noir de Ridley Scott (2001)
 
-# Paolo Sorrentino :
+# <a name='sorrentino'></a>Paolo Sorrentino :
 La main de dieu de Paolo Sorrentino (2021)\
 La guerra di mario de Antonio Capuano (2005)\
 Vito e gli altri de Antonio Capuano (1991)\
@@ -1378,7 +1380,7 @@ Les conséquences de l’amour de Paolo Sorrentino (2004)\
 Jackie Brown de Quentin Tarantino (1997)\
 Diego Maradona de Asif Kapadia (2019)
 
-# Thomas Vinterberg :
+# <a name='vinterberg'></a>Thomas Vinterberg :
 Fanny et Alexandre de Ingmar Bergman (1982)\
 Festen de Thomas Vinterberg (1998)\
 Nocturne de Lars von Trier (1980)\
@@ -1395,7 +1397,7 @@ Julien Donkey boy de Harmony Korine (1999)\
 Drunk de Thomas Vinterberg (2020)\
 Le parrain 2 de Francis Ford Coppola (1974)
 
-# Ari Aster :
+# <a name='aster'></a>Ari Aster :
 The strange thing about the johnsons de Ari Aster (2011)\
 Munchausen de Ari Aster (2013)\
 Beau is afraid de Ari Aster (2023)\
@@ -1429,7 +1431,7 @@ Le septième continent de Michael Haneke (1993)\
 Taxidermie de Gyorgy Palfi (2006)\
 La casa lobo de Cristóbal León & Joaquín Cociña (2018)
 
-# Marina Foïs :
+# <a name='fois'></a>Marina Foïs :
 Les damnés de Luchino Visconti (1969)\
 Rome, ville ouverte de Roberto Rossellini (1945)\
 Bacurau de Kleber Mendonça Filho & Juliano Dornel (2019)\
@@ -1438,7 +1440,7 @@ Polisse de Maïwenn (2011)\
 Grimsby - Agent Très Spécial de Louis Leterrier (2016)\
 De l’influence des rayons gamma sur le comportement des marguerites de Paul Newman (1972)
 
-# Bruno Dumont :
+# <a name='dumont'></a>Bruno Dumont :
 L’avventura de Michelangelo Antonioni (1960)\
 France de Bruno Dumont (2021)\
 Les amants crucifiés de Kenji Mizoguchi (1957)\
@@ -1455,7 +1457,7 @@ One + One de Jean-Luc Godard (1968)\
 L’or des mers de Jean Epstein (1933)\
 Ma loute de Bruno Dumont (2016)
 
-# Julie Delpy :
+# <a name='delpy'></a>Julie Delpy :
 Goodbye Lenin! de Wolfgang Becker (2003)\
 La comtesse de Julie Delpy (2009)\
 2 days in paris de Julie Delpy (2007)\
@@ -1475,13 +1477,13 @@ Before Sunrise de Richard Linklater (1995)\
 Before Sunset de Richard Linklater (2004)\
 Before Midnight de Richard Linklater (2013)
 
-# Nicolas Winding Refn :
+# <a name='refn'></a>Nicolas Winding Refn :
 Pretty Woman de Garry Marshall (1990)\
 La belle et la bête de Jean Cocteau (1946)\
 Bohemian Rhapsody de Bryan Singer (2018)\
 La montagne sacrée de Alejandro Jodorowsky (1973)
 
-# Eddy Mitchell :
+# <a name='mitchell'></a>Eddy Mitchell :
 Vera Cruz de Robert Aldrich (1955)\
 Winchester ‘73 de Anthony Mann (1951)\
 La vallée de la vengeance de Richard Thorpe (1952)\
@@ -1511,7 +1513,7 @@ I love you de Marco Ferreri (1986)\
 Jusqu’au bout du monde de Wim Wenders (1991)\
 Ange de Ernst Lubitsch (1937)
 
-# Sean Baker :
+# <a name='baker'></a>Sean Baker :
 Breaking the waves de Lars von Trier (1996)\
 The house that jack built de Lars von Trier (2018)\
 La grosse magouille de Robert Zemeckis (1980)\
@@ -1522,7 +1524,7 @@ A nos amours de Maurice Pialat (1983)\
 Moi, Christiane F., 13 ans, droguée, prostituée… de Uli Edel (1981)\
 Le genoux de Claire de Eric Rohmer (1970)
 
-# Nanni Moretti :
+# <a name='moretti'></a>Nanni Moretti :
 La part des anges de Ken Loach (2012)\
 Esclave de l’amour de Nikita Mikhalkov (1976)\
 La liste noire de Irwin Winkler (1991)\
@@ -1543,7 +1545,7 @@ Nouvel ordres de Michel Franco (2020)\
 Journal Intime de Nanni Moretti (1994)\
 Flashdance de Adrian Lyne (1983)
 
-# Chloé Zhao :
+# <a name='zhao'></a>Chloé Zhao :
 Epouses et concubines de Zhang Yimou (1991)\
 Lust, Caution de Ang Lee (2007)\
 Into the abyss de Werner Herzog (2012)\
@@ -1556,7 +1558,7 @@ Samsara de Ron Fricke (2011)\
 Captain America : Civil War de Joe Russo & Anthony Russo (2016)\
 Le seigneur des anneaux : Les deux tours de Peter Jackson (2002)
 
-# Justine Triet :
+# <a name='triet'></a>Justine Triet :
 Anatomie d’une chute de Justine Triet (2023)\
 Sibyl de Justine Triet (2019)\
 Toni Erdman de Maren Ade (2016)\
@@ -1579,7 +1581,7 @@ Terreur aveugle de Richard Fleischer (1971)\
 Juvenile Court de Frederick Wiseman (1973)\
 Le projet nim de James Marsh (2012)
 
-# Agnès Jaoui :
+# <a name='jaoui'></a>Agnès Jaoui :
 Partition inachevée pour piano mécanique de Nikita Mikhalkov (1977)\
 Les tsiganes montent au ciel de Emil Loteanu (1976)\
 Le silence du palais de Moufida Tlatli (1994)\
@@ -1598,7 +1600,7 @@ L’homme qui tua Liberty Valance de John Ford (1962)\
 Les sentiers de la gloire de Stanley Kubrick (1957)\
 Mission Impossible de Brian De Palma (1996)
 
-# Rian Johnson :
+# <a name='johnson'></a>Rian Johnson :
 Glass onion : Une histoire à couteaux tirés de Rian Johnson (2022)\
 Looper de Rian Johnson (2012)\
 A couteaux tirés de Rian Johnson (2019)\
@@ -1619,7 +1621,7 @@ Les invitations dangereuses de Herbert Ross (1973)\
 Logan Lucky de Steven Soderbergh (2017)\
 Chungking express de Wong Kar-wai (1995)
 
-# François Ozon :
+# <a name='ozon'></a>François Ozon :
 Été 85 de François Ozon (2020)\
 La chasse de William Friedkin (1980)\
 Mirage de la vie de Douglas Sirk (1959)\
@@ -1630,7 +1632,7 @@ Conte d’été de Eric Rohmer (1996)\
 La boum de Claude Pinoteau (1980)\
 L’homme blessé de Patrice Chéreau (1983)
 
-# Nicolas Maury :
+# <a name='maury'></a>Nicolas Maury :
 Crazy amy de Judd Apatow (2015)\
 Gentille de Sophie Fillières (2005)\
 Super blonde de Fred Wolf (2008)\
@@ -1642,7 +1644,7 @@ While we’re young de Noah Baumbach (2015)\
 Her de Spike Jonze (2014)\
 Haewon et les hommes de Hong Sang-soo (2013)
 
-# Alexandre Desplat :
+# <a name='desplat'></a>Alexandre Desplat :
 Les désaxés de John Huston (1961)\
 Ran de Akira Kurosawa (1985)\
 Harry Potter et les reliques de la mort partie 2 de David Yates (2011)\
@@ -1662,7 +1664,7 @@ Edward au mains d’argent de Tim Burton (1990)\
 Batman de Tim Burton (1989)\
 Harry Potter et les reliques de la mort partie 1 de David Yates (2010)
 
-# Joann Sfar :
+# <a name='sfar'></a>Joann Sfar :
 Nosferatu le vampire de Friedrich Wilhelm Murnau (1922)\
 Petit vampire de Joann Sfar (2019)\
 Nosferatu fantôme de la nuit de Werner Herzog (1979)\
@@ -1679,7 +1681,7 @@ Society de Brian Yuzna (1989)\
 Cabal de Clive Barker (1990)\
 Borat de Sacha Baron Cohen (2006)
 
-# Bertrand Bonello :
+# <a name='bonello'></a>Bertrand Bonello :
 Inferno de Dario Argento (1980)\
 Le territoire des morts de George A. Romero (2005)\
 Assaut de John Carpenter (1976)\
@@ -1688,7 +1690,7 @@ Carrie au bal du diable de Brian De Palma (1976)\
 Le village des damnés de Wolf Rilla (1960)\
 Les yeux sans visage de Georges Franju (1960)
 
-# Dario Argento :
+# <a name='argento'></a>Dario Argento :
 Accatone de Pier Paolo Pasolini (1962)\
 L’éclipse de Michelangelo Antonioni (1962)\
 Ténèbres de Dario Argento (1983)\
@@ -1705,7 +1707,7 @@ L’homme des hautes plaines de Clint Eastwood (1973)\
 Pink Floyd à Pompéi de Adrian Maben (1972)\
 Deux yeux maléfiques de George A. Romero & Dario Argento (1992)
 
-# Daniel Scheinert :
+# <a name='scheinert'></a>Daniel Scheinert :
 Coup de maître de Chia-Liang Liu (1994)\
 Tigre et dragon de Ang Lee (2000)\
 Shaolin Soccer de Stephen Chow (2001)\
@@ -1722,7 +1724,7 @@ Tempêtes de boulettes géantes de Phil Lord & Christopher Miller (2009)\
 21 jump street de Phil Lord & Christopher Miller (2012)\
 La grande aventure Lego de Phil Lord & Christopher Miller (2014)
 
-# Anne Fontaine :
+# <a name='fontaine'></a>Anne Fontaine :
 Une séparation de Asghar Farhadi (2011)\
 La source de Ingmar Bergman (1960)\
 Faisons un rêve de Sacha Guitry (1936)\
@@ -1738,7 +1740,7 @@ Corps et âme de Ildiko Enyedi (2017)\
 De l’eau tiède : Sous un pont rouge de Shohei Imamura (2001)\
 Tristana de Luis Bunuel (1970)
 
-# Louis Leterrier :
+# <a name='leterrier'></a>Louis Leterrier :
 L’incroyable Hulk de Louis Leterrier (2008)\
 Insaisissables de Louis Leterrier (2013)\
 Loin du périph de Louis Leterrier (2022)\
@@ -1766,7 +1768,7 @@ Droopy de Tex Avery (1953)\
 La voiture de demain de Tex Avery (1951)\
 Team America, Police du monde de Trey Parker & Matt Stone (2005)
 
-# Ruben Ostlund :
+# <a name='ostlun'></a>Ruben Ostlund :
 Happy game de Michael Haneke (2017)\
 Benny’s video de Michael Haneke (1993)\
 Funny games U.S de Michael Haneke (2008)\
@@ -1777,7 +1779,7 @@ Annette de Leos Carax (2021)\
 La planète des singes : Les origines de Rupert Wyatt (2011)\
 Etre et avoir de Nicolas Philibert (2002)
 
-# Joachim Trier :
+# <a name='trier'></a>Joachim Trier :
 Back home de Joachim Trier (2014)\
 La nuit de Michelangelo Antonioni (1961)\
 New york stories de Martin Scorsese & Francis Ford Coppola (1989)\
@@ -1787,7 +1789,7 @@ Eden de Mia Hansen-Love (2014)\
 Le nouveau monde de Jan Troell (1972)\
 Le miroir d'Andreï Tarkovski (1974)
 
-# Audrey Diwan :
+# <a name='diwan'></a>Audrey Diwan :
 Au-delà des collines de Cristian Mungiu (2012)\
 Burning de Lee Chang-Dong (2018)\
 Nobody Knows de Hirokazu Kore-Eda (2004)\
@@ -1798,7 +1800,7 @@ Tous les matins du monde de Alain Corneau (1991)\
 Le bonheur de Agnès Varda (1965)\
 Mais vous êtes fous de Audrey Diwan (2018)
 
-# Baz Luhrmann :
+# <a name='luhrmann'></a>Baz Luhrmann :
 Australia de Baz Luhrmann (2008)\
 Tous en scène de Vincente Minnelli (1954)\
 Le danseur du dessus de Mark Sandrich (1936)\
@@ -1822,27 +1824,27 @@ Satyricon de Federico Fellini (1969)\
 Ballroom dancing de Baz Luhrmann (1992)\
 Gatsby le magnifique de Baz Luhrmann (2013)
 
-# Hommage à Jean-Luc Godard :
+# <a name='godard'></a>Hommage à Jean-Luc Godard :
 Alphaville de Jean-Luc Godard (1965)\
 Hélas pour moi de Jean-Luc Godard (1993)\
 Prénom Carmen de Jean-Luc Godard  (1983)\
 Masculin Féminin de Jean-Luc Godard (1966)
 
-# Iris Brey :
+# <a name='brey'></a>Iris Brey :
 Ema de Pablo Larrain (2019)\
 The L Word : Generation Q de Ilene Chaiken (2019)\
 Quand nous étions des sorcières de Nietzchka Keene (1993)\
 Wonder Woman de Patty Jenkins (2017)\
 Titanic de James Cameron (1997)
 
-# Asghar Farhadi :
+# <a name='farhadi'></a>Asghar Farhadi :
 The voices de Marjane Satrapi (2014)\
 A girl walks alone at night de Ana Lily Amirpour (2014)\
 Tales de Rakhshan Bani-Etemad (2014)\
 Il faut sauver le soldat Ryan de Steven Spielberg (1998)\
 Trois couleurs : Bleu de Krzysztof Kieslowski (1993)
 
-# Maïmouna Doucouré :
+# <a name='doucouré'></a>Maïmouna Doucouré :
 Carrie de Brian De Palma (1976)\
 Thelma et Louise de Ridley Scott (1991)\
 Rue Casse-Nègres de Euzhan Palcy (1983)\
@@ -1851,7 +1853,7 @@ Coming Home de Zhang Yimou (2014)\
 L'effrontée de Claude Miller (1985)\
 Mignonnes de Maïmouna Doucouré (2020)
 
-# Guillaume Canet (de retour) :
+# <a name='canet2'></a>Guillaume Canet (de retour) :
 La nuée de Just Philippot (2021)\
 La route de John Hillcoat (2009)\
 Acide de Just Philippot (2023)\
@@ -1860,7 +1862,7 @@ Les autres d' Alejandro Amenabar (2001)\
 Barracuda de Phillipe Haïm (1997)\
 Les morsures de l’aube d' Antoine de Caunes (2001)
 
-# Mélanie Laurent :
+# <a name='laurent'></a>Mélanie Laurent :
 Opération Finale de Chris Weitz (2020)\
 Six Underground de Michael Bay (2019)\
 Beginners de Mike Mills (2011)\
@@ -1887,7 +1889,7 @@ Billy Elliot de Stephen Daldry (2000)\
 Martha Marcy May Marlene de Sean Durkin (2012)\
 Oxygène de Alexandre Aja (2021)
 
-# Mona Chokri :
+# <a name='chokri'></a>Mona Chokri :
 Simple comme sylvain de Monia Chokri (2023)\
 Un été à la goulette de Férid Boughedir (1996)\
 Le pianiste de Michael Haneke (2001)\
@@ -1911,7 +1913,7 @@ Adaptation de Spike Jonze (2003)\
 Anomalisa de Charlie Kaufman (2016)\
 La folle histoire de l’espace de Mel Brooks (1987)
 
-# Wim Wenders :
+# <a name='wenders'></a>Wim Wenders :
 Buena Vista Social Club de Wim Wenders (1999)\
 Alice dans les villes de Wim Wenders (1974)\
 Le sel de la terre de Juliano Ribeiro Salgado & Wim Wenders (2014)\
@@ -1936,7 +1938,7 @@ Women Talking de Sarah Polley (2022)\
 Seuls les anges ont des ailes de Howard Hawks (1939)\
 Lost in translation de Sofia Coppola (2003)
 
-# Ladj Ly :
+# <a name='ly'></a>Ladj Ly :
 Bâtiment 5 de Ladj Ly (2023)\
 Sheitan de Kim Chapiron (2006)\
 365 jours à Clichy-Montfermeil de Ladj Ly (2007)\
@@ -1952,7 +1954,7 @@ Boyz n The Hood de John Singleton (1991)\
 Menace II Society de Albert & Allen Hughes (1993)\
 New Jack City de Mario Van Peebles (1991)
 
-# Eva Green & Martin Borboulon :
+# <a name='green-borboulon'></a>Eva Green & Martin Borboulon :
 Eiffel de Martin Borboulon (2021)\
 Les trois mousquetaires : Milady de Martin Borboulon (2023)\
 Dark Shadow de Tim Burton (2012)\
@@ -1988,7 +1990,7 @@ Les liaisons dangereuses de Stephen Frears (1988)\
 L'homme au masque de fer de Randall Wallace (1998)\
 Corsage de Marie Kreutzer (2022)
 
-# Norman Reedus :
+# <a name='reedus'></a>Norman Reedus :
 The Walkind Dead : Daryl Dixon (série TV) (Depuis 2023)\
 Ride with Norman Reedus de Norman Reedus (Depuis 2016)\
 Death Stranding de Kojima Productions (jeu vidéo) (2019)\
@@ -2016,7 +2018,7 @@ La vie rêvée des anges de Erick Zonca (1998)\
 Charmed de Constance M. Burge (série TV) (1998-2006)\
 Sons of Anarcy de Kurt Sutter (série TV) (2008-2014)
 
-# Todd Haynes :
+# <a name='haynes'></a>Todd Haynes :
 Poison de Todd Haynes (1991)\
 Safe de Todd Haynes (1995)\
 Loin du paradis de Todd Haynes (2002)\
@@ -2048,7 +2050,7 @@ River of grass de Kelly Reichardt (1995)\
 Old Joy de Kelly Reichardt (2006)\
 Moonage Daydream de Brett Morgen (2022)
 
-# Léa Seydoux :
+# <a name='seydoux'></a>Léa Seydoux :
 Les adieux à la reine de Benoît Jacquot (2012)\
 La belle et la bête de Christopher Gans (2014)\
 Mission impossible : Protocole fantôme de Brad Bird (2011)\
@@ -2071,7 +2073,7 @@ Dune deuxième partie de Denis Villeneuve (2024)\
 La petite sirène de Tomoharu Katsumata (1975)\
 Le vent se lève de Hayao Miyazaki (2013)
 
-# Jodie Foster :
+# <a name='foster'></a>Jodie Foster :
 Panic room de David Fincher (2002)\
 Inside man : L'homme de l'intérieur de Spike Lee (2006)\
 Le complexe du castor de Jodie Foster (2011)\
@@ -2098,7 +2100,7 @@ Le roi lion de Roger Allers & Rob Minkoff (1994)\
 Le roi lion 3 de Bradley Raymond (2004)\
 La petite sirène de John Musker & Ron Clements (1989)
 
-# Florent Bernard :
+# <a name='bernard'></a>Florent Bernard :
 Groom de Studio Bagel (2018)\
 La flamme de Jonathan Cohen, Florent Berard & Jérémie Galan (2020)\
 La flamme : Les Aventuriers de Chupacabra de Jonathan Cohen & Jérémie Galan(2022)\
@@ -2136,7 +2138,7 @@ Evil Dead 3 de Sam Raimi (1993)\
 Spider-man 2 de Sam Raimi (2004)\
 Dingo & Max de Kévin Lima (1995)
 
-# Pablo Larraín
+# <a name='larrain'></a>Pablo Larraín
 Le comte de Pablo Larraín (2023)\
 Neruda de Pablo Larraín (2016)\
 Jackie de Pablo Larraín (2016)\
@@ -2164,7 +2166,7 @@ Beau travail de Claire Denis (1999)\
 Vivre sa vie de Jean-Luc Godard (1962)\
 Film Socialisme de Jean-Luc Godard (2010)
 
-# Ludovic et Zoran Boukherma
+# <a name='boukherma'></a>Ludovic et Zoran Boukherma
 Willy 1er de Ludovic & Zoran Boukherma, Marielle Gautier & Hugo P.Thomas (2016)\
 Leurs enfants après eux de Ludovic et Zoran Boukherma (2024)\
 Teddy de Ludovic & Zoran Boukherma (2020)\
@@ -2189,15 +2191,15 @@ La cérémonie de Claude Chabrol (1995)\
 L'amour ouf de Gilles Lellouche (2024)\
 Idiocracy de Mike Judge (2006)
 
-# Jeff Nichols 
+# <a name='nichols'></a>Jeff Nichols 
 
-# Ti West
+# <a name='west'></a>Ti West
 
-# Pedro Almodovar
+# <a name='almodovar'></a>Pedro Almodovar
 
-# Luca Guadagnino
+# <a name='guadagnino'></a>Luca Guadagnino
 
-# Jesse Eisenberg
+# <a name='eisenberg'></a>Jesse Eisenberg
 
 # <a name='kojima'></a>Hideo Kojima
 Le trou de Jacques Becker (1960)\
@@ -2205,28 +2207,28 @@ Drive de Nicolas Winding Refn (2011)\
 Les gueules noires de Mathieu Turi (2023)\
 L'enfant d'en haut de Ursula Meier (2012)
 
-# Oliver Stone
+# <a name='stone'></a>Oliver Stone
 
-# Malik Bentalha
+# <a name='bentalha'></a>Malik Bentalha
 
-# Reda Kateb
+# <a name='kateb'></a>Reda Kateb
 
-# Noémie Merlant
+# <a name='merlant'></a>Noémie Merlant
 
-# Frank Dubosc
+# <a name='dubosc'></a>Frank Dubosc
 
-# Robert Eggers
+# <a name='eggers'></a>Robert Eggers
 
-# Ben Stiller
+# <a name='stiller'></a>Ben Stiller
 
-# Vincent Cassel
+# <a name='cassel'></a>Vincent Cassel
 
-# Francis Ford Coppola
+# <a name='coppola'></a>Francis Ford Coppola
 
-# SCH
+# <a name='sch'></a>SCH
 
-# Gilles Lellouche
+# <a name='lellouche'></a>Gilles Lellouche
 
-# Denis Villeneuve
+# <a name='villeneuve'></a>Denis Villeneuve
 
-# Viggo Mortensen
+# <a name='mortensen'></a>Viggo Mortensen
