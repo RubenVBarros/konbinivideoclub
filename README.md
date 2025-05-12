@@ -2325,6 +2325,31 @@ L'enfant d'en haut de Ursula Meier (2012)
 # <a name='stone'></a>Oliver Stone
 
 # <a name='bentalha'></a>Malik Bentalha
+Pattaya de Franck Gastambide (2016)\
+Le Meilleur pâtissier du monde de Malik Bentalha (2024)\
+Le Doudou de Philippe Mechelen & Julien Hervé (2018)\
+La bul - Mange moi l'ananas de Malik Bentalha (2024)\
+L'heure de trop sur cnews de Malik Bentalha (2023)\
+Taxi 5 de Franck Gastambide
+Gladiator de Ridley Scott (2000)\
+Le Comte de Monte Cristo de Alexandre de la Patellière & Matthieu Delaporte (2024)\
+Babe de Chris Noonan (1995)\
+Certifié Halal de Mahmoud Zemmouri (2015)\
+Sauvez flora l'éléphant de Mark Taylor (2017)\
+Copper de Tom Fontana (Série TV) (2012-2013)\
+Si j'avais un million de James Cruze,H. Bruce Humberstone,Ernst Lubitsch,Norman Z. McLeod,Stephen Roberts,William A. Seiter & Norman Taurog  (1932)\
+La série des films Tarzan avec Johnny Weissmuller (1932 pour le premier film)\
+
+La il troll de ouf mais bon dans un soucis de faire une liste je les mets quand même :\
+K-PAX, l'homme qui vient de loin de Iain Softley (2001)\
+Moi César, 10 ans et demie, 1m39 de Richard Berry (2003)\
+J'accuse de Roman Polanski (2019)\
+Au secours j'ai 30 ans de Marie-Anne Chazel (2004)\
+Fin du troll\
+Dans la maison de François Ozon (2012)\
+Hitch de Andy Tennant (2005)\
+Escobar de Fernando León de Aranoa (2017)\
+Dingo & Max de Kevin Lima (1995)
 
 # <a name='kateb'></a>Reda Kateb
 
