@@ -131,6 +131,7 @@ j'ai rajouté avant l'année (Série TV) pour préciser le fait qu'il parle d'un
 ## [Gilles Lellouche](#lellouch)
 ## [Denis Villeneuve](#villeneuve)
 ## [Viggo Mortensen](#mortensen)
+## [Jeff Goldblum](#goldblum)
 
 
 # <a name='pitt-leitch'></a>Brad Pitt & David Leitch :
@@ -641,7 +642,7 @@ A nightmare on Elm Street de Wes Craven (1984)\
 Scream de Wes Craven (1996)\
 Piranha 3D d' Alexandre Aja (2010)\
 The Darjeeling Limited de Wes Anderson (2007)\
-La famille Tenenbaums de Wes Anderson (2001)\
+La famille Tenenbaum de Wes Anderson (2001)\
 L’île aux chiens de Wes Anderson (2018)\
 Virgin Suicides de Sofia Coppola (1999)\
 Danse avec les loups de Kevin Costner (1990)\
@@ -2307,6 +2308,29 @@ L'amour ouf de Gilles Lellouche (2024)\
 Idiocracy de Mike Judge (2006)
 
 # <a name='nichols'></a>Jeff Nichols 
+Shotgun Stories de Jeff Nichols (2007)\
+Midnight Special de Jeff Nichols (2016)\
+Loving de Jeff Nichols (2016)\
+Un héros de Asghar Farhadi (2021)\
+Rêves de Akira Kurosawa (1990)\
+Slacker de Richard Linklater (1991)\
+Godzilla Minus One de Takashi Yamazaki (2023)\
+L'arnaqueur de Robert Rossen (1961)\
+Le plus sauvage d'entre tous de Robert Rossen (1961)\
+Les cowboys de Mark Rydell (1972)\
+Cent Dollars pour un shérif de Henry Hathaway (1969)\
+L'équipe sauvage de László Benedek (1953)\
+Past Lives de Celine Song (2023)\
+Le dernier duel de Ridley Scott (2021)\
+Killing Eve de Phoebe Waller-Bridge (Série TV) (2018-2022)\
+Complot meurtrier contre une pom pom girl de Michael Ritchie (1993)\
+Fletch aux trousses de Michael Ritchie (1985)\
+George Washington de David Gordon Green (2000)\
+Mystery Train de Jim Jarmusch (1989)\
+La Firme de Sydney Pollack (1993)\
+Outsiders de Francis Ford Coppola (1983)\
+Emprise de Bill Paxton (2002)\
+
 
 # <a name='west'></a>Ti West
 
@@ -2372,3 +2396,26 @@ Dingo & Max de Kevin Lima (1995)
 # <a name='villeneuve'></a>Denis Villeneuve
 
 # <a name='mortensen'></a>Viggo Mortensen
+
+# <a name='goldblum'></a>Jeff Goldblum
+L'invasion des profanateurs de Philip Kaufman (1974)\
+Les copains d'abord de Lawrence Kasdan (1983)\
+L'étoffe des héros de Philip Kaufman (1983)\
+Dernière limite de Bill Duke (1992)\
+Independence Day de Roland Emmerich (1996)\
+Thor : Ragnarok de Taika Waititi (2017)\
+Wicked de Jon M. Chu (2024)\
+La môme de Olivier Dahan (2007)\
+Arthur de Steve Gordon (1981)\
+Little Surprises de Jeff Goldblum (1996)\
+Shadows de John Cassavetes (1959)\
+L'humanité de Bruno Dumont (1999)\
+Autour de minuit de Bertrand Tavernier (1986)\
+Asteroid City de Wes Anderson (2023)\
+La statue en or massif de Russell Rouse (1966)\
+Le parrain 3ème partie de Francis Ford Coppola (1990)\
+Cotton Club de Francis Ford Coppola (1984)\
+Lush Life de Michael Elias (1993)\
+Le magicien d'oz de Victor Fleming (1939)\
+Chico et Rita de Fernando Trueba & Javier Mariscal (2011)\
+They Shot The Piano Player de Fernando Trueba & Javier Mariscal (2023)
