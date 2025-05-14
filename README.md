@@ -2329,7 +2329,7 @@ George Washington de David Gordon Green (2000)\
 Mystery Train de Jim Jarmusch (1989)\
 La Firme de Sydney Pollack (1993)\
 Outsiders de Francis Ford Coppola (1983)\
-Emprise de Bill Paxton (2002)\
+Emprise de Bill Paxton (2002)
 
 
 # <a name='west'></a>Ti West
