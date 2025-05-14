@@ -2396,6 +2396,36 @@ Dingo & Max de Kevin Lima (1995)
 # <a name='villeneuve'></a>Denis Villeneuve
 
 # <a name='mortensen'></a>Viggo Mortensen
+Hidalgo de Joe Johnston (2004)\
+Captain Fantastic de Matt Ross (2016)\
+Falling de Viggo Mortensen (2020)\
+Jusqu'au bout du monde de Viggo Mortensen (2024)\
+Le seigneur des anneaux : La communauté de l'anneau de Peter Jackson (2001)\
+Le seigneur des anneaux : Le retour du roi (2003)\
+La passion de Jeanne d'arc de Carl Theodor Dreyer (1928)\
+Le choix de sophie de Alan J.Pakula (1982)\
+Frances de Graeme Clifford (1982)\
+Quarante tueurs de Samuel Fuller (1957)\
+Sonate d'automne de Ingmar Bergman (1978)\
+Crónica de un niño solo de Leonardo Favio (1965)\
+Les Saints innocents de Mario Camus (1984)\
+Une journée particulière de Ettore Scola (1977)\
+Phantom Thread de Paul Thomas Anderson (2017)\
+Jack le magnifique de Peter Bogdanovic (1979)\
+La dernière séance de Peter Bogdanovic (1972)\
+On s'fait la valise, docteur ? Peter Bogdanovic (1972)\
+Une longue journée qui s'achève de Terence Davies (1991)\
+Spider de David Cronenberg (2002)\
+Wanda de Barbara Loden (1970)\
+Monte Walsh de William A.Fraker (1970)\
+Cléo de 5 à 7 de Agnès Varda (1962)\
+L'Homme du sud de Jean Renoir (1945)\
+L'atalante de Jean Vigo (1934)\
+Seuls sont les indomptés de David Miller & Kirk Douglas (1962)\
+L'Homme qui tua Liberty Valance de John Ford (1962)\
+La Rivière rouge de Howard Hawks & Arthur Rosson (1948)\
+Lawrence d'Arabie de David Lean (1962)\
+Le Docteur Jivago de David Lean (1965)
 
 # <a name='goldblum'></a>Jeff Goldblum
 L'invasion des profanateurs de Philip Kaufman (1974)\
