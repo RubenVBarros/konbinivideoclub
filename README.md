@@ -2331,14 +2331,17 @@ La Firme de Sydney Pollack (1993)\
 Outsiders de Francis Ford Coppola (1983)\
 Emprise de Bill Paxton (2002)
 
-
 # <a name='west'></a>Ti West
+
 
 # <a name='almodovar'></a>Pedro Almodovar
 
+
 # <a name='guadagnino'></a>Luca Guadagnino
 
+
 # <a name='eisenberg'></a>Jesse Eisenberg
+
 
 # <a name='kojima'></a>Hideo Kojima
 Le trou de Jacques Becker (1960)\
@@ -2347,6 +2350,7 @@ Les gueules noires de Mathieu Turi (2023)\
 L'enfant d'en haut de Ursula Meier (2012)
 
 # <a name='stone'></a>Oliver Stone
+
 
 # <a name='bentalha'></a>Malik Bentalha
 Pattaya de Franck Gastambide (2016)\
@@ -2377,23 +2381,41 @@ Dingo & Max de Kevin Lima (1995)
 
 # <a name='kateb'></a>Reda Kateb
 
+
 # <a name='merlant'></a>Noémie Merlant
+
 
 # <a name='dubosc'></a>Frank Dubosc
 
+
 # <a name='eggers'></a>Robert Eggers
+
 
 # <a name='stiller'></a>Ben Stiller
 
+
 # <a name='cassel'></a>Vincent Cassel
+
 
 # <a name='coppola'></a>Francis Ford Coppola
 
+
 # <a name='sch'></a>SCH
+
 
 # <a name='lellouche'></a>Gilles Lellouche
 
+
 # <a name='villeneuve'></a>Denis Villeneuve
+Blade Runner 2049 de Denis Villeneuve (2017)\
+Polytechnique de Denis Villeneuve (2009)\
+Sicario de Denis Villeneuve (2015)\
+Boy Meets Carax de Leos Carax (1984)\
+Le mystère Picasso de Henri-Georges Clouzot (1956)\
+Malcolm et Marie de Sam Levinson (2021)\
+Le Roi de David Michôd (2019)\
+La dernière tentation du christ de Martin Scorsese (1988)\
+
 
 # <a name='mortensen'></a>Viggo Mortensen
 Hidalgo de Joe Johnston (2004)\
