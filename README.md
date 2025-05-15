@@ -2414,7 +2414,7 @@ Boy Meets Carax de Leos Carax (1984)\
 Le mystère Picasso de Henri-Georges Clouzot (1956)\
 Malcolm et Marie de Sam Levinson (2021)\
 Le Roi de David Michôd (2019)\
-La dernière tentation du christ de Martin Scorsese (1988)\
+La dernière tentation du christ de Martin Scorsese (1988)
 
 
 # <a name='mortensen'></a>Viggo Mortensen
