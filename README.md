@@ -1399,7 +1399,6 @@ Lost Highway de David Lynch (1997)\
 La double vie de Véronique de Krzysztof Kieslowski (1991)\
 Rouge de Krzysztof Kieslowski (1994)\
 Casablanca de Michael Curtiz (1947)\
-Mad max 2 : Le défi de George Miller (1982)\
 Le magicien d’oz de Victor Flemming (1946)\
 Le festin de babette de Gabriel Axel (1988)\
 Copland de James Mangold (1997)\
@@ -2404,6 +2403,41 @@ Dingo & Max de Kevin Lima (1995)
 
 
 # <a name='lellouche'></a>Gilles Lellouche
+Narco de Tristan Arouet & Gilles Lellouche (2004)\
+La French de Cédric Jimenez (2024)\
+Bac Nord de Cédric Jimenez (2021)\
+L'instinct de mort de Jean-François Richet (2008)\
+Le sens de la fête de Eric Toldedano & Olivier Nakache (2017)\
+Astérix & Obélix : L'empire du millieu de Guillaume Canet (2023)\
+The Fall Guy de David Leitch (2024)\
+Men Who Swim de Dylan Williams (2010)\
+Regarde les hommes nager de Oliver Parker (2018)\
+Rogue One : A Star Wars Story de Gareth Edwards (2016)\
+Class 1984 de Mark L. Lester (1982)\
+Les guerriers de la nuit de Walter Hill (1979)\
+Les affranchis de Martin Scorsese (1990)\
+Sherlock Holmes : Jeu d'ombres de Guy Ritchie (2011)\
+Foxcatcher de Bennett Miller (2014)\
+Le stratège de Bennett Miller (2011)\
+Amityville : La maison du diable de Stuart Rosenberg (1979)\
+Double impact de Sheldon Leitch (1991)\
+Risky Business de Paul Brickman (1983)\
+Né un 4 Juillet de Oliver Stone (1989)\
+Pollock de Ed Harris (2000)\
+Les anges de la nuit de Phil Joanou (1990)\
+Very Bad Cops de Adam McKay (2010)\
+Dodgeball ! Même pas mal ! de Rawson Marshall Thurber (2004)\
+La vie d'Adèle : chapitres 1 & 2 de Abdellatif Kechiche (2013)\
+Le monde de demain de Katell Quillévéré, Hélier Cisterne & David Elkaim (2022)\
+Peur sur la ville de Henri Verneuil (1975)\
+L'as des as de Gérard Oury (1982)\
+Mandibules de Quentin Dupieux (2022)\
+Le deuxième acte de Quentin Dupieux (2024)\
+C'est pas une vie, Jerry de Norman Taurog (1954)\
+Docteur Jerry et Mister Love de Jerry Lewis (1963)\
+Toy Story 3 de Lee Unkirch (2010)\
+Zootopie de Byron Howard, Rich Moore & Jared Bush (2016)\
+Les indéstructbile de Brad Bird (2004)                                                                                                                                                                                                                                 
 
 
 # <a name='villeneuve'></a>Denis Villeneuve
