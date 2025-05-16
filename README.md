@@ -437,7 +437,7 @@ False flag de Amit Cohen & Maria Feldman (2015)\
 This is Us de Dan Fogelman (2016)\
 Lost de J.J. Abrams & Jeffrey Lieber (Série TV) (2004)\
 A la maison blanche de Aaron Sorkin (1999)\
-Les sopranos de David Chase (1999)\
+Les sopranos de David Chase (Série TV) (1999 - 2007)\
 Mindhunter de Joe Penhall & David Fincher (2017) (Série TV)\
 Le chant du loup de Antonin Baudry (2019)\
 Green Book de Peter Farrelly (2018)\
@@ -2400,7 +2400,41 @@ Dingo & Max de Kevin Lima (1995)
 
 
 # <a name='sch'></a>SCH
-
+Sonatine, mélodie mortelle de Takeshi Kitano (1993)\
+Violent Cop de Takeshi Kitano (1989)\
+Gomorra de Roberto Saviano (Série TV) (2014-2021)\
+Gomorra de Matteo Garrone (2008)\
+Piranhas de Claudio Giovannesi (2019)\
+Ozark de Bill Dubuque & Mark Williams (Série TV) (2017-2022)\
+Autant en emporte le vent de Victor Fleming (1939)\
+Chouf de Karim Didi (2016)\
+Comme un aimant de Kamel Saleh & Akhenaton (2000)\
+Dog Pound de Kim Chapiron (2010)\
+Les collègues de Philippe Dajoux (1999)\
+Ni pour ni contre (bien au contraire) de Cédric Klapisch (2003)\
+Doberman de Jan Kounen (1997)\
+Les tontons flingueurs de Georges Lautner (1963)\
+Le dîner de cons de Francis Veber (1998)\
+Le pari de Didier Bourdon & Bernard Campan (1997)\
+Matrix Reloaded de Lana & Lily Wachowski (2003)\
+Reservoir Dogs de Quentin Tarantino (1992)\
+Blow de Ted Demme (2001)\
+V pour Vendetta de James McTeigue (2005)\
+Public Enemies de Michael Mann (2009)\
+Le solitaire de Michael Mann (1981)\
+Collateral de Michael Mann (2004)\
+Miami vice : deux flics à miami de Michael Mann (2006)\
+Ali de Michael Mann (2001)\
+The game de David Fincher (1997)\
+Full Metal Jacket de Stanley Kubrick (1987)\
+Platoon de Oliver Stone (1986)\
+L'associé du diable de Taylor Hackford (1997)\
+8 Mile de Curtis Hanson (2002)\
+Réussir ou mourrir de Jim Sheridan (2005)\
+Notorious BIG de George Tillman Jr. (2009)\
+Monsieur Aznavour de Grands Corps Malade & Mehdi Idir (2024)\
+La ligne verte de Frank Darabont (1999)\
+Je verrai toujours vos visages de Jeanne Herry (2023)
 
 # <a name='lellouche'></a>Gilles Lellouche
 Narco de Tristan Arouet & Gilles Lellouche (2004)\
@@ -2439,7 +2473,6 @@ Toy Story 3 de Lee Unkirch (2010)\
 Zootopie de Byron Howard, Rich Moore & Jared Bush (2016)\
 Les indéstructbile de Brad Bird (2004)                                                                                                                                                                                                                                 
 
-
 # <a name='villeneuve'></a>Denis Villeneuve
 Blade Runner 2049 de Denis Villeneuve (2017)\
 Polytechnique de Denis Villeneuve (2009)\
@@ -2449,7 +2482,6 @@ Le mystère Picasso de Henri-Georges Clouzot (1956)\
 Malcolm et Marie de Sam Levinson (2021)\
 Le Roi de David Michôd (2019)\
 La dernière tentation du christ de Martin Scorsese (1988)
-
 
 # <a name='mortensen'></a>Viggo Mortensen
 Hidalgo de Joe Johnston (2004)\
