@@ -2373,9 +2373,39 @@ V/H/S: Second Honeymoon de Ti West (2012)\
 Scream de Matt Bettinelli-Olpin & Tyler Gillett (2022)\
 American Movie de Chris Smith (1999)
 
-
 # <a name='almodovar'></a>Pedro Almodovar
-
+Attache-moi de Pedro Almodovar (1990)\
+En chair et en os de Pedro Almodovar (1997)\
+La mauvaise éducation de Pedro Almodovar (2004)\
+La chambre d'à côté de Pedro Almodovar (2024)\
+Talons aiguilles de Pedro Almodovar (1991)\
+Viridiana de Luis Buñuel (1961)\
+La vie criminelle d'Archibald de la Cruz de Luis Buñuel (1955)\
+Nazarin de Luis Buñuel (1959)\
+Jambon, Jambon de Bigas Luna (1992)\
+Etreintes brisées de Pëdro Almodovar (2009)\
+Volver de Pedro Almodovar (2006)\
+Le Sud de Victor Erice (1983)\
+Le songe de la lumière de Victor Erice (1992)\
+Fermer les yeux de Victor Erice (2023)\
+Femmes de George Cukor (1939)\
+Vaudou de Jacques Tourneur (1943)\
+La féline de Jacques Tourneur (1942)\
+L'invasion des profanateurs de sépultures de Don Siegel (1956)\
+La chose d'un autre monde de Christian Nyby (1951)\
+La féline de Paul Schrader (1982)\
+Eve de Joseph L. Mankiewicz (1950)\
+Règlement de comptes de Fritz Lang (1953)\
+Qu'est ce que j'ai fait pour mériter ça de Pedro Almodovar (1984)\
+La piel que habito de Pedro Almodovar (2011)\
+Le cercle rouge de Jean-Pierre Melville (1970)\
+Le flic de Jean-Pierre Melville (1972)\
+Léon Morin, prêtre de Jean-Pierre Melville (1961)\
+La baie des anges de Jacques Derny (1963)\
+Cronos de Guillermo del Toro (1993)\
+Mimic de Guillermo del Toro (1997)\
+Strange way of life de Pedro Almodovar (2023)\
+La fièvre dans le sang de Elia Kazan (1961)
 
 # <a name='guadagnino'></a>Luca Guadagnino
 
