@@ -2481,7 +2481,28 @@ Dingo & Max de Kevin Lima (1995)
 
 
 # <a name='eggers'></a>Robert Eggers
-
+Nosferatu de Robert Eggers (2024)\
+The Northman de Robert Eggers (2022)\
+Eraserhead de David Lynch (1977)\
+Seinfeld de Larry David & Jerry Seinfeld (Série TV) (1989-1998)\
+Terminator de David Cameron (1984)\
+Andriech de Serguei Paradjanov & Iakov Bazelian (1954)\
+Les sans-espoir de Miklos Jancso (1965)\
+Humiliés et offensés de Andreï Andreïevitch Echpai (1991)\
+La nuit de la saint-jean de Youri Illienko (1968)\
+Les chevaux de feu de Sergueï Paradjanov (1965)\
+Le diable de Andrzej Zulawski (1972)\
+La note bleue de Andrzej Zulawski (1991)\
+La reine des cartes de Thorold Dickinson (1949)\
+Svengali de Archie Mayo (1931)\
+Gardiens de phare de Jean Grémillon (1929)\
+Conan le barbare de John Milius (1982)\
+Des anges et des insectes de Philip Haas (1995)\
+Le chemin sans retour de Jesse Holland & Andy Mitton (2010)\
+Les diables de Ken Russell (1971)\
+Les innocents de Jack Clayton (1961)\
+The Lost City of Z de James Gray (2016)\
+Maman, j'ai raté l'avion de Chris Columbus (1990)
 
 # <a name='stiller'></a>Ben Stiller
 
