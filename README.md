@@ -2411,7 +2411,29 @@ La fièvre dans le sang de Elia Kazan (1961)
 
 
 # <a name='eisenberg'></a>Jesse Eisenberg
-
+Batman V Superman : L'aube de la justice de Zack Snyder (2016)\
+The Double de Richard Ayoade (2013)\
+Les berkman se séparent de Noah Baumbach (2005)\
+Cursed de Wes Craven (2005)\
+The art of self-defense de Riley Stearns (2019)\
+Bienvenue à zombieland de Ruben Fleischer (2009)\
+A Real Pain de Jesse Eisenberg (2024)\
+When you finish saving the world de Jesse Eisenberg (2022)\
+Insaisissables 2 de Jon M. Chu (2016)\
+Primitifs de David & Nathan Zeller (2024)\
+La mort de Staline de Armando Iannucci (2017)\
+EO de Jerzy Skoliomowski (2022)\
+La jeune femme à l'aiguille de Magnus von Horn (2024)\
+Sweat de Magnus von Horn (2020)\
+Pauvres créatures de Yorgos Lanthimos (2023)\
+Kinds of Kindness de Yorgos Lanthimos (2024)\
+Succession de Jesse Armstrong (Série TV) (2018 - 2023)\
+Oliver ! de Carol Reed (1968)\
+Oliver Twist de Roman Polanski (2006)\
+Maris et Femmes de Woody Allen (1992)\
+Submarine de Richard Ayoade (2010)\
+Never Rarely Sometimes Always de Eliza Hittman (2020)\
+Showing Up de Kelly Reichardt (2022)
 
 # <a name='kojima'></a>Hideo Kojima
 Le trou de Jacques Becker (1960)\
@@ -2565,7 +2587,6 @@ La passion de Jeanne d'arc de Carl Theodor Dreyer (1928)\
 Le choix de sophie de Alan J.Pakula (1982)\
 Frances de Graeme Clifford (1982)\
 Quarante tueurs de Samuel Fuller (1957)\
-Sonate d'automne de Ingmar Bergman (1978)\
 Crónica de un niño solo de Leonardo Favio (1965)\
 Les Saints innocents de Mario Camus (1984)\
 Une journée particulière de Ettore Scola (1977)\
