@@ -128,7 +128,7 @@ j'ai rajouté avant l'année (Série TV) pour préciser le fait qu'il parle d'un
 ## [Vincent Cassel](#cassel)
 ## [Francis Ford Coppola](#coppola)
 ## [SCH](#sch)
-## [Gilles Lellouche](#lellouch)
+## [Gilles Lellouche](#lellouche)
 ## [Denis Villeneuve](#villeneuve)
 ## [Viggo Mortensen](#mortensen)
 ## [Jeff Goldblum](#goldblum)
