@@ -203,7 +203,7 @@ L’Homme qui voulut être roi de David Lean (1976)\
 Zoulou de Cyril R. Endfield (1964)\
 Citizen Kane de Orson Welles (1946)\
 Les Rapaces de Erich Von Stroheim (1924)\
-Sunset Boulevard de Billy Wilder (1950)\
+Sunset Boulevard ou Boulevard du Crépuscule de Billy Wilder (1950)\
 Westworld de Jonathan Nolan & Lisa Joy (Série TV) (2016-2022)\
 Chernobyl de Craig Marzin (Série TV) (2019)\
 Docteur Mabuse le joueur de Fritz Lang (Série TV Muette) (1924)\
@@ -2331,6 +2331,47 @@ Outsiders de Francis Ford Coppola (1983)\
 Emprise de Bill Paxton (2002)
 
 # <a name='west'></a>Ti West
+Pearl de Ti West (2022)\
+The Sacrament de Ti West (2014)\
+The Innkeepers de Ti West (2012)\
+MaXXXine de Ti West (2024)\
+The ABCs of Death : M is for Miscarriage de Ti West (2013)\
+The House of The Devil de Ti West (2009)\
+Cabin Fever : Spring Fever de Ti West (2010)\
+X de Ti West (2022)\
+Tales from the loop de Nathaniel Halpern (Série TV) (Depuis 2020)\
+Le Masque du démon de Mario Bava (1960)\
+Les Frissons de l'angoisse de Dario Argento (1975)\
+The Roost de Ti West (2006)\
+Mary Poppins de Robert Stevenson (1964)\
+Je vous salue, Marie de Jean-Luc Godard (1985)\
+Debbie Does Dallas de Jim Clark (1978)\
+Blue Movie de Andy Warhol (1969)\
+Le gang des BMX de Brian Trenchard-Smith (1983)\
+Ladies and Gentlemen, The Fabulous Saints de Lou Adler (1982)\
+La mort en prime de Alex Cox (1984)\
+Les banlieusards de Joe Dante (1989)\
+Hollywood Boulevard de Allan Arkush & Joe Dante (1976)\
+The Player de Robert Altman (1992)\
+Le Privé de Robert Altman (1973)\
+Angel de Robert Vincent O'Neil (1984)\
+Le jour du fléau de John Schlesinger (1975)\
+Habit de Larry Fessenden (1997)\
+Prey de Ti West (2001)\
+Poltergeist de Tobe Hooper (1982)\
+Macadam à deux voies de Monte Hillman (1971)\
+Easy Rider de Dennis Hopper (1969)\
+Candyman de Bernard Rose (1992)\
+Summer of sam de Spike Lee (1999)\
+Bad Taste de Peter Jackson (1987)\
+Vice Squad: Descente aux enfers de Gary Sherman (1982)\
+A cure for life de Gore Verbinski (2017)\
+Nymphomaniac : Volume II de Lars Von Trier (2013)\
+Running Man de Paul Michael Glaser (1987)\
+Les griffes de la nuit de Wes Craven (1984)\
+V/H/S: Second Honeymoon de Ti West (2012)\
+Scream de Matt Bettinelli-Olpin & Tyler Gillett (2022)\
+American Movie de Chris Smith (1999)
 
 
 # <a name='almodovar'></a>Pedro Almodovar
@@ -2471,7 +2512,7 @@ C'est pas une vie, Jerry de Norman Taurog (1954)\
 Docteur Jerry et Mister Love de Jerry Lewis (1963)\
 Toy Story 3 de Lee Unkirch (2010)\
 Zootopie de Byron Howard, Rich Moore & Jared Bush (2016)\
-Les indéstructbile de Brad Bird (2004)                                                                                                                                                                                                                                 
+Les indéstructibles de Brad Bird (2004)           
 
 # <a name='villeneuve'></a>Denis Villeneuve
 Blade Runner 2049 de Denis Villeneuve (2017)\
