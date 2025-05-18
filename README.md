@@ -435,7 +435,7 @@ Hannah et ses soeurs de Woody Allen (1986)\
 Crimes et délits de Woody Allen (1989)\
 False flag de Amit Cohen & Maria Feldman (2015)\
 This is Us de Dan Fogelman (2016)\
-Lost de J.J. Abrams & Jeffrey Lieber (Série TV) (2004)\
+Lost : Les Disparus de J.J. Abrams & Jeffrey Lieber (Série TV) (2004)\
 A la maison blanche de Aaron Sorkin (1999)\
 Les sopranos de David Chase (Série TV) (1999 - 2007)\
 Mindhunter de Joe Penhall & David Fincher (2017) (Série TV)\
@@ -1257,7 +1257,7 @@ De bruit et de fureur de Jean-Claude Brisseau (1988)
 Le guépard de Luchino Visconti (1963)\
 Marie Stuart, Reine d’écosse de Josie Rourke (2019)\
 Moi, Tonya de Craig Gillepsie (2018)\
-First man de Damien Chazelle (2018)\
+First man : Le premier homme sur la lune de Damien Chazelle (2018)\
 Iron Man 3 de Shane Black (2013)\
 Aviator de Martin Scorsese (2005)\
 Le loup de wall street de Martin Scorsese (2013)\
@@ -2613,7 +2613,41 @@ The Lost City of Z de James Gray (2016)\
 Maman, j'ai raté l'avion de Chris Columbus (1990)
 
 # <a name='stiller'></a>Ben Stiller
-
+Zoolander 2 de Ben Stiller (2016)\
+La nuit au musée de Shawn Levy (2006)\
+Mon beau père et moi de Jay Roach (2000)\
+Disjoncté de Ben Stiller (1996)\
+Tonnerre sous les tropiques de Ben Stiller (2008)\
+Severance de Dan Erickson (Série TV) (Depuis 2022)\
+La vie rêvée de Walter Mitty de Ben Stiller (2013)\
+Greenberg de Noah Baumbach (2010)\
+Escape At Dannemora de Brett Johnson & Michael Tolkin (2018)\
+The Substance de Coralie Fargeat (2024)\
+Anora de Sean Baker (2024)\
+The Leftovers de Damon Lindelof & Tom Perrotta (Série TV) (2014 - 2017)\
+Watchmen de David Lindelof (Série TV) (2019)\
+Man Seeking Woman de Simon Rich (Série TV) (2015 - 2017)\
+Black Mirror de Charlie Brooker (Série TV) (Depuis 2011)\
+Star Trek de Gene Roddenberry (Série TV) (1966 - 1969)\
+La Quatrième Dimension de Rod Serling (Série TV) (1959 - 1964)\
+The Studio de Seth Rogen,Evan Goldberg & Peter Huyck (Série TV) (Depuis 2025)\
+La vie est belle de Frank Capra (1946)\
+Les horizons perdus Frank Capra (1937)\
+La vie secrète de Walter Mitty de Norman Z. McLeod (1947)\
+La nuit au musée 2 de Shawn Levy (2009)\
+Génération 90 de Ben Stiller (1996)\
+Flirter avec les embrouilles de David O. Russell (1996)\
+Tenacious D et le médiator du destin de Liam Lynch (2006)\
+Ca chauffe au lycée Ridgemont de Amy Heckerling (1982)\
+Saturday Night de Jason Reitman (2024)\
+Real Life de Albert Brooks (1979)\
+Rendez-vous au paradis de Albert Brooks (1991)\
+Le brise-coeur de Elaine May (1972)\
+Les femmes de ses rêves de Peter & Bobby Farrelly (2007)\
+Mission Impossible 2 de John Woo (2000)\
+Mission Impossible : The Final Reckoning de Christopher McQuarrie (2025)\
+Top Gun: Maverick de Joseph Kosinski (2022)\
+Ginger Baker, Batteur inconditionel de Jay Bulger (2012)
 
 # <a name='cassel'></a>Vincent Cassel
 
