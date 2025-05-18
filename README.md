@@ -2825,3 +2825,23 @@ Chico et Rita de Fernando Trueba & Javier Mariscal (2011)\
 They Shot The Piano Player de Fernando Trueba & Javier Mariscal (2023)
 
 # <a name='costagavras'></a>Costa-Gavras
+Le couperet de Costa-Gavras (2005)\
+L'aveu de Costa-Gavras (1970)\
+Le capital de Costa-Gavras (2012)\
+Missing de Costa-Gavras (1982)\
+Music Box de Costa-Gavras (1989)\
+Mad City de Costa-Gavras (1997)\
+Adults in the room de Costa-Gavras (2019)\
+Amen. de Costa-Gavras (2002)\
+Le grand silence de Sergio Corbucci (1968)\
+Compartiments tueurs de Costa-Gavras (1965)\
+Tromperie de Arnaud Desplechin (2021)\
+Stella, femme libre de Michel Cacoyannis (1955)\
+Sauvez le tigre de John G. Avildsen (1978)\
+Le dernier souffle de Costa-Gavras (2025)\
+Athena de Romain Gavras (2022)\
+Le jour et l'heure de René Clément (1963)\
+Les félins de René Clément (1964)\
+Napléon de Abel Gance (1927)\
+Monsieur Klein de Joseph Losey (1926)\
+Drôle d'espions de John Landis (1985)
