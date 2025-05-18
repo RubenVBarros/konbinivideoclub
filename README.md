@@ -2563,7 +2563,30 @@ La monstrueuse parade de Ted Browning (1932)\
 Boulevard de la mort de Quentin Tarantino (2007)
 
 # <a name='dubosc'></a>Frank Dubosc
-
+Tout le monde debout de Franck Dubosc (2018)\
+Rumba la vie de Franck Dubosc (2022)\
+Le monde de nemo de Andrew Stanton (2003)\
+Highlander de Gregory Widen (Série de films) (1992 - 1998)\
+10 jours sans maman de Ludovic Bernard (2020)\
+Un ours dans le jura de Franck Dubosc (2025)\
+Les petites annonces de Elie Semoun & Franck Dubosc\
+Camping Fabien Onteniente (2006)\
+Le survivant de Boris Sagal (1971)\
+Je suis une légende de Francis Lawrence (2007)\
+C.R.A.Z.Y de Jean-Marc Vallée (2005)\
+Justice de flic de Michel Gérard (1986)\
+Quand Harry rencontre Sally de Rob Reiner (1989)\
+Sale temps à l'hotel El Royal de Drew Goddard (2018)\
+Loups-garous de François Uzan (2024)\
+Le traître de Marco Bellochio (2019)\
+Corra da te (Tout le monde debout) de Riccardo Milani (2022)\
+Cyprien de David Charhon (2009)\
+L'amour c'est mieux à deux de Arnaud Lemort & Dominique Farrugia (2010)\
+A plein temps de Eric Gravel (2022)\
+Cinéman de Yann Moix (2008)\
+A nous les petites anglaise de Michel Lang (1976)\
+A nous les garçons de Michel Lang (1985)\
+Baby Sitting de Philippe Lacheau & Nicolas Benamou (2014)
 
 # <a name='eggers'></a>Robert Eggers
 Nosferatu de Robert Eggers (2024)\
