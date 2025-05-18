@@ -2540,7 +2540,27 @@ K-19 : Le piège des profondeurs de Kathryn Bigelow (2002)\
 A la poursuite d'octobre rouge de John McTiernan (1990)
 
 # <a name='merlant'></a>Noémie Merlant
-
+Mi iubita, mon amour de Noémie Merlant (2021)\
+Je suis #Unebiche de Noémie Merlant (2017)\
+Le retour du héros de Laurent Tirard (2018)\
+L'innocent de Louis Garrel (2022)\
+Pour le rôle de Pierre Niney (2013)\
+Emmanuelle de Audrey Diwan (2024)\
+Lee Miller de Ellen Kuras (2023)\
+Les femmes au balcon de Noémie Merlant (2024)\
+Bambi de David D. Hand (1942)\
+Cyclo de Tran Anh Hung (1995)\
+A la verticale de l'été de Tran Anh Hung (2000)\
+The Grudge de Takashi Shimizu (2004)\
+Parle avec elle de Pedro Almodovar (2002)\
+Les petites marguerites de Vera Chytilova (1966)\
+L'orpheline avec en plus un bras en moins de Jacques Richard (2012)\
+Mamma Roma de Pier Paolo Pasolini (1962)\
+The Brother de Ryan Bonder (2016)\
+En liberté ! de Pierre Salvadori (2018)\
+Sept Ans de réflexion de Billy Wilder (1955)\
+La monstrueuse parade de Ted Browning (1932)\
+Boulevard de la mort de Quentin Tarantino (2007)
 
 # <a name='dubosc'></a>Frank Dubosc
 
