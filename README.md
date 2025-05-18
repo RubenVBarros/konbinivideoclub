@@ -1761,7 +1761,6 @@ Haewon et les hommes de Hong Sang-soo (2013)
 
 # <a name='desplat'></a>Alexandre Desplat :
 Les désaxés de John Huston (1961)\
-Ran de Akira Kurosawa (1985)\
 Harry Potter et les reliques de la mort partie 2 de David Yates (2011)\
 Aniki, mon frère de Takeshi Kitano (2000)\
 Joies matrimoniales de Alfred Hitchcock (1941)\
@@ -2684,7 +2683,32 @@ L'âge de glace de Chris Wedge & Carlos Saldanha (2002)\
 Supervixens de Russ Meyer (1975)
 
 # <a name='coppola'></a>Francis Ford Coppola
-
+Megalopolis de Francis Ford Coppola (2024)\
+Tucker : l'homme et son rêve de Francis Ford Coppola (1988)\
+Tetro de Francis Ford Coppola (2009)\
+Twixt de Francis Ford Coppola (2011)\
+Rusty James de Francis Ford Coppola (1983)\
+Ils aimaient la vie de Andrzej Wajda (1957)\
+Cendres et Diamant de Andrzej Wajda (1958)\
+Le garde du corps de Akira Kurosawa (1961)\
+Les salauds dorment en paix de Akira Kurosawa (1960)\
+Tora ! Tora ! Tora de Richard Fleischer,Kinji Fukasaku & Toshio Masuda (1970)\
+Kagemusha, l'ombre du guerrier de Akira Kurosawa & Ishiro Honda (1980)\
+La ballade de Bruno de Werner Herzog (1977)\
+Seduced and Abadoned de Pietro Germi (1964)\
+Le tombeur des ces dames de Jerry Lewis (1961)\
+Falstaff de Orson Welles (1965)\
+La splendeur des Amberson de Orson Welles (1942)\
+Paris brüle-t-il ? de René Clément (1966)\
+French Cancan de Jean Renoir (1955)\
+Mouin Rouge de John Huston (1952)\
+Koyaanisqatsi de Godfrey Reggio (1982)\
+Patton de Franklin J. Schaffner (1970)\
+Empire du soleil de Steven Spielberg (1987)\
+Le Knack... Et comment l'avoir de Richard Lester (1965)\
+Un crime dans la tête de John Frankenheimer (1962)\
+Marie-Antoinette de Sofia Coppola (2006)\
+Little Big Man de Arthur Penn (1970)\
 
 # <a name='sch'></a>SCH
 Sonatine, mélodie mortelle de Takeshi Kitano (1993)\
