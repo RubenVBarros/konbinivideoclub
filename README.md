@@ -2516,7 +2516,28 @@ Escobar de Fernando León de Aranoa (2017)\
 Dingo & Max de Kevin Lima (1995)
 
 # <a name='kateb'></a>Reda Kateb
-
+Lost Lover de Ryan Gosling (2015)\
+Hippocrate de Thomas Lilti (2014)\
+Les beaux jours d'aranjuez de Wim Wenders (2016)\
+Zero Dar Thirty de Kathryn Bigelow (2012)\
+Sur un fil de Reda Kateb (2024)\
+Hors Normes de Eric Tolédano & Olivier Nakache (2019)\
+Omar la fraise de Elias Belkeddar (2023)\
+Le maître des marionnettes de Hou Hsiao-hsien (1993)\
+Submergence de Wim Wenders (2017)\
+Marche à l'ombre de Michel Blanc (1984)\
+Grosse fatigue de Michel Blanc (1994)\
+La bête humaine de Jean Renoir (1938)\
+Django de Etienne Comar (2017)\
+Les grands ducs de Patrice Leconte (1996)\
+Le mari de la coiffeuse de Patrice Leconte (1990)\
+Les olympiades de Jacques Audiard (2021)\
+E.T., l'extraterrestre de Steven Spielberg (1982)\
+The Making of 'E.T. The Extra-terrestrial' de Laurent Bouzereau (1996)\
+Y aura-t-il de la neige à noël de Sandrine Veysset (1996)\
+Sandrine Winchester, Opéra fantôme de Bertrand Bonello (2016)\
+K-19 : Le piège des profondeurs de Kathryn Bigelow (2002)\
+A la poursuite d'octobre rouge de John McTiernan (1990)
 
 # <a name='merlant'></a>Noémie Merlant
 
