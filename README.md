@@ -1723,7 +1723,7 @@ Star Wars, épisode VIII : Les Derniers Jedi de Rian Johnson (2017)\
 Brick de Rian Johnson (2006)\
 La dernière Piste de Kelly Reichardt (2011)\
 Nightmare Alley de Guillermo Del Toro (2022)\
-Le conformiste de Bernardo Bertolucci (1971)\
+Le conformiste de Bernardo Bertolucci (1970)\
 Le trésor de la Sierra Madre de John Huston (1948)\
 Les ailes de William A. Wellman et Henry d’Abbadie d'Arrast (1928)\
 Popeye de Robert Altman (1981)\
@@ -2408,7 +2408,25 @@ Strange way of life de Pedro Almodovar (2023)\
 La fièvre dans le sang de Elia Kazan (1961)
 
 # <a name='guadagnino'></a>Luca Guadagnino
-
+Bones and All de Luca Guadagnino (2022)\
+A Bigger Splash de Luca Guadagnino (2015)\
+We are who we are de Luca Guadagnino,Paolo Giordano,Francesca Manieri & Sean Conway (2020)\
+The protagonists de Luca Guadagnino (1999)\
+Challengers de Luca Guadagnino (2024)\
+Amore de Luca Guadagnino (2009)\
+Queer de Luca Guadagnino (2024)\
+Oncle Boonmee de Apichatpong Weerasethakul (2010)\
+La luna de Bernardo Bertolucci (1979)\
+La Pivellina de Tizza Covi & Rainer Frimmel (2010)\
+Samba Traoré de Idrissa Ouadraogo (1992)\
+Orphée de Jean Cocteau (1950)\
+Betty de Claude Chabrol (1992)\
+Prince des ténèbres de John Carpenter (1987)\
+Love is the devil de John Maybury (1998)\
+The Meatseller de Margherita Giusti (2023)\
+Le garçon et le héron de Hayao Miyazaki (2023)\
+Outer Banks de Shannon Burke, Josh & Jonas Pete (Série TV) (Depuis 2020)\
+The Bear de Christopher Storer (Série TV) (Depuis 2022)
 
 # <a name='eisenberg'></a>Jesse Eisenberg
 Batman V Superman : L'aube de la justice de Zack Snyder (2016)\
