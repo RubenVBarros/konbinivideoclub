@@ -132,7 +132,7 @@ j'ai rajouté avant l'année (Série TV) pour préciser le fait qu'il parle d'un
 ## [Denis Villeneuve](#villeneuve)
 ## [Viggo Mortensen](#mortensen)
 ## [Jeff Goldblum](#goldblum)
-
+## [Costa-Gavras](#costa-gavras)
 
 # <a name='pitt-leitch'></a>Brad Pitt & David Leitch :
 Fight Club de David Fincher (1999)\
@@ -2610,7 +2610,7 @@ Le chemin sans retour de Jesse Holland & Andy Mitton (2010)\
 Les diables de Ken Russell (1971)\
 Les innocents de Jack Clayton (1961)\
 The Lost City of Z de James Gray (2016)\
-Maman, j'ai raté l'avion de Chris Columbus (1990)
+<!-- Maman, j'ai raté l'avion de Chris Columbus (1990) -->
 
 # <a name='stiller'></a>Ben Stiller
 Zoolander 2 de Ben Stiller (2016)\
@@ -2650,7 +2650,38 @@ Top Gun: Maverick de Joseph Kosinski (2022)\
 Ginger Baker, Batteur inconditionel de Jay Bulger (2012)
 
 # <a name='cassel'></a>Vincent Cassel
-
+Black Swan de Darren Aronofsky (2011)\
+Les linceuls de David Cronenberg (2025)\
+Le pacte des loups de Christophe Gans (2001)\
+Mon Roi de Maiwenn (2015)\
+Notre jour viendra de Romain Gavras (2010)\
+Banger de So Me (2025)\
+Ocean's Twelve de Steven Soderbergh (2004)\
+Divorce à l'italienne de Pietro Germi (1961)\
+Mariage à l'italienne de Ettore Scola (1964)\
+Riz Amer de Giuseppe De Santis (1949)\
+Tales of the tales : Le conte des contes de Matteo Garrone (2015)\
+Parthenope de Paolo Sorrentino (2024)\
+Orfeu Negro de Marcel Camus (1959)\
+Troupe d'élite 2 de José Padilha (2010)\
+Dona Flores et ses deux mains de Bruno Barreto (1976)\
+Saravah Pierre Barouh (2024)\
+Un moment d'égarement de Jean-François Richet (2015)\
+L'empereur de Paris de Jean-François Richet (2015)\
+Les galettes de Pont-Aven de Joël Séria de 1975\
+Boudu sauvé des eaux de Jean Renoir (1932)\
+Les trois mousquetaires de Richard Lester (1973)\
+Making Of : Les Acteurs de Bertrand Blier (1999)\
+Shettan de Kim Chapiron (2006)\
+Les frères wanted : La Barbichette de Kim Chapiron (2002)\
+Athéna de Romain Gavras (2022)\
+Apocalypse Now Redux de Francis Ford Coppola (2001)\
+Au coeur des ténèbres: L'apocalypse d'un metteur en scène de Fax Bahr & George Hickenlooper (1991)\
+L'enfer du dimanche de Oliver Stone (1999)\
+Elephant Man de David Lynch (1980)\
+Shrek de Andrew Adamson & Vicky Jenson (2001)\
+L'âge de glace de Chris Wedge & Carlos Saldanha (2002)\
+Supervixens de Russ Meyer (1975)
 
 # <a name='coppola'></a>Francis Ford Coppola
 
@@ -2792,3 +2823,5 @@ Lush Life de Michael Elias (1993)\
 Le magicien d'oz de Victor Fleming (1939)\
 Chico et Rita de Fernando Trueba & Javier Mariscal (2011)\
 They Shot The Piano Player de Fernando Trueba & Javier Mariscal (2023)
+
+# <a name='costagavras'></a>Costa-Gavras
