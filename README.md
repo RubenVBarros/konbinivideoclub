@@ -783,7 +783,7 @@ Jour de fête de Jacques Tati (1949)\
 Léon de Luc Besson (1994)\
 Lucy de Luc Besson (2014)\
 Taxi de Luc Besson (1998)\
-Z de Costa Gavras (1969)\
+Z de Costa-Gavras (1969)\
 Convoi exceptionnel de Bertrand Blier (2019)\
 La pointe courte d' Agnès Varda (1956)\
 Fenêtre sur cour d'Alfred Hitchcock (1955)\
@@ -2460,7 +2460,33 @@ Les gueules noires de Mathieu Turi (2023)\
 L'enfant d'en haut de Ursula Meier (2012)
 
 # <a name='stone'></a>Oliver Stone
-
+Wall Street de Oliver Stone (1987)\
+The Doors de Oliver Stone (1991)\
+Tueurs nés ou Natural Born Killers de Oliver Stone (1994)\
+Alexandre de Oliver Stone (2004)\
+World Trade Center de Oliver Stone (2006)\
+Savages de Oliver Stone (2012)\
+Snowden de Oliver Stone (2016)\
+Nuclear Now de Oliver Stone (2022)\
+La bataille d'Alger de Gillo Pontecorvo (1966)\
+Les Trappeurs de l'Hudson de Irving Pichel (1941)\
+Le Roman de Mildred Pierce de Michael Curtiz (1945)\
+Les plus belles années de notre vie de William Wyler (1946)\
+Les Révoltés du Bounty de Frank Lloyd (1935)\
+Le Bounty de Roger Donaldson (1984)\
+Règlements de comptes à O.K Corral de John Sturges (1957)\
+Véra Cruz de Robert Aldrich (1954)\
+La tour des ambitieux de Robert Wise (1954)\
+L'année du dragon de Michael Cimino (1985)\
+Ils étaient un seul homme de George Clooney (2023)\
+Vicky Cristina Barcelona de Woody Allen (2008)\
+Blue Jasmine de Woody Allen (2013)\
+Un jour de pluis de Woody Allen (2019)\
+Bertha Boxcar de Martin Scorsese (1972)\
+Birdy de Alan Parker (1984)\
+Midnight Express de Alan Parker (1978)\
+W.: L'improbable Président de Oliver Stone (2008)\
+Nixon de Oliver Stone (1995)
 
 # <a name='bentalha'></a>Malik Bentalha
 Pattaya de Franck Gastambide (2016)\
