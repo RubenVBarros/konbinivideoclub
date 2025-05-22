@@ -133,6 +133,10 @@ j'ai rajouté avant l'année (Série TV) pour préciser le fait qu'il parle d'un
 ## [Viggo Mortensen](#mortensen)
 ## [Jeff Goldblum](#goldblum)
 ## [Costa-Gavras](#costa-gavras)
+## [Raphaël Quenard](#quenard)
+## [Casting de la Classe Moyenne](#classe-moyenne)
+## [Spike Lee](#lee)
+
 
 # <a name='pitt-leitch'></a>Brad Pitt & David Leitch :
 Fight Club de David Fincher (1999)\
@@ -2869,3 +2873,9 @@ Les félins de René Clément (1964)\
 Napléon de Abel Gance (1927)\
 Monsieur Klein de Joseph Losey (1926)\
 Drôle d'espions de John Landis (1985)
+
+# <a name='quenard'></a>Raphaël Quenard
+
+# <a name='classe-moyenne'></a>Ramzy, Laurent Laffite, Laure Callamy (Le casting de La Classe Moyenne)
+
+# <a name='lee'></a>Spike Lee
