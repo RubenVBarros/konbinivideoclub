@@ -2875,7 +2875,28 @@ Monsieur Klein de Joseph Losey (1926)\
 Drôle d'espions de John Landis (1985)
 
 # <a name='quenard'></a>Raphaël Quenard
+Woman de Anastasia Mikova & Yann Arthus-Bertrand (2020)\
+Lourdes de Alban Teurlai & Thierry Demaiziere (2019)\
+La mort suspendue de Kevin Mcdonald (2003)\
+I Love Peru de Raphaël Quenard & Hugo David (2025)\
+Les filles d'olfa de Kaouther Ben Hania (2023)\
+Close-up de Abbas Kiarostami (1990)\
+Jim & Andy de Chris Smith (2017)
 
 # <a name='classe-moyenne'></a>Ramzy, Laurent Laffite, Laure Callamy (Le casting de La Classe Moyenne)
+Paris is Burning de Jennie Livingston (1990)\
+Apocalypse de Hubert de la Bouillerie (1997)\
+Le cuisinier, le voleur, sa femme et son amant de Peter Greenaway (1989)\
+SAW de James Wan (2004)\
+Quatre mois, Trois semaines, Deux jours de Cristian Mungiu (2007)\
+September & July de Ariane Labed (2024)\
+Une affaire de femmes de Claude Chabrol (1988)\
+Kids de Larry Clark (1995)\
+Classe Moyenne de Antony Cordier (2025)\
+Tremors de Ron Underwood (1990)
 
 # <a name='lee'></a>Spike Lee
+Highest 2 Lowest de Spike Lee (2025)\
+Mo' Better Blues de Spike Lee (1990)\
+He Got Game de Spike Lee (1998)\
+Jungle Fever de Spike Lee (1991)
