@@ -136,6 +136,8 @@ j'ai rajouté avant l'année (Série TV) pour préciser le fait qu'il parle d'un
 ## [Raphaël Quenard](#quenard)
 ## [Casting de la Classe Moyenne](#classe-moyenne)
 ## [Spike Lee](#lee)
+## [Angela Bassett](#bassett)
+## [Les frères Dardenne](#dardenne)
 
 
 # <a name='pitt-leitch'></a>Brad Pitt & David Leitch :
@@ -2900,3 +2902,8 @@ Highest 2 Lowest de Spike Lee (2025)\
 Mo' Better Blues de Spike Lee (1990)\
 He Got Game de Spike Lee (1998)\
 Jungle Fever de Spike Lee (1991)
+
+# <a name='bassett'></a>Angela Bassett
+
+# <a name='dardenne'></a>Les frères Dardenne
+
