@@ -2904,6 +2904,19 @@ He Got Game de Spike Lee (1998)\
 Jungle Fever de Spike Lee (1991)
 
 # <a name='bassett'></a>Angela Bassett
+Le livre de clarence de Jeymes Samuel (2023)\
+La musique de mon coeur de Wes Craven (1999)\
+Nightmare Cafe de Wes Craven & Thomas Baum (1992)\
+Tina de Brian Gibson (1993)\
+The Score de Frank Oz (2001)\
+Zero Day de Eric Newman, Noah Oppenheim & Michael Schmidt (Série TV) (Depuis 2025)\
+Super Fly de Gordon Parks Jr.(1972)\
+Lady Sings the blues de Sidney J. Furie (1972)\
+Purple Rain de Albert Magnoli (1984)\
+Coraline de Henry Selick (2009)\
+Wendell & Wild de Henry Selick (2022)\
+Nip/Tuck de Ryan Murphy (Série TV) (2003 - 2010)\
+Strange Days de Kathryn Bigelow (1995)
 
 # <a name='dardenne'></a>Les frères Dardenne
 
