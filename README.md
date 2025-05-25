@@ -2919,4 +2919,20 @@ Nip/Tuck de Ryan Murphy (Série TV) (2003 - 2010)\
 Strange Days de Kathryn Bigelow (1995)
 
 # <a name='dardenne'></a>Les frères Dardenne
-
+Le fils de Jean-Pierre & Luc Dardenne (2002)\
+La fille inconue de Jean-Pierre & Luc Dardenne (2016)\
+Le jeune ahmed de Jean-Pierre & Luc Dardenne (2019)\
+Tori et Lokita de Jean-Pierre & Luc Dardenne (2022)\
+Le gamin au vélo de Jean-Pierre & Luc Dardenne (2011)\
+Deux jours, une nuit de Jean-Pierre & Luc Dardenne (2014)\
+Europe 51 de Roberto Rossellini (1952)\
+Allemagne année zéro de Roberto Rossellini (1948)\
+Aprile de Nanni Moretti (1998)\
+Ou est la maison de mon ami ? de Abbas Kiarostami (1987)\
+Eté 93 de Carla Simon (2017)\
+L'histoire de Souleymane de Boris Lojkine (2024)\
+La grande vadrouille de Gérard Oury (1966)\
+Déjà s'envole la fleur magique de Paul Meyer (1960)\
+Meurtre d'un bookmaker chinois de John Cassavetes (1976)\
+Les vacanes d'un cinéaste de Johan van der Keuken (1974)\
+Les âmes mortes de Wang Bing (2018)
