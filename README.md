@@ -140,7 +140,8 @@ j'ai rajouté avant l'année (Série TV) pour préciser le fait qu'il parle d'un
 ## [Les frères Dardenne](#dardenne)
 ## [Dean DeBlois](#deblois)
 ## [Jean-Pascal Zadi](#zadi)
-
+## [Gareth Edwards](#edwards)
+## [Nicolas Winding Refn](#refn2)
 
 # <a name='pitt-leitch'></a>Brad Pitt & David Leitch :
 Fight Club de David Fincher (1999)\
@@ -1182,7 +1183,7 @@ Kes de Ken Loach (1970)\
 Et au milieu coule une rivière de Robert Redford (1992)\
 Contact de Robert Zemeckis (1997)\
 Avatar de James Cameron (2009)\
-Castle in the sky de Hayao Miyazaki (2003)
+Castle in the sky ou le château dans le ciel de Hayao Miyazaki (1986)
 
 # <a name='toledano-nakache'></a>Toledano & Nakache :
 The Upside de Neil Burger (2019)\
@@ -1591,7 +1592,7 @@ Minnie and Moskowitz de John Cassavetes (1972)\
 Phantom of the paradise de Brian De Palma (1974)\
 Alien: Convenant de Ridley Scott (2017)\
 La valse des pantins de Martin Scorsese (1982)\
-Star Wars : L’empire contre attaque de Irvin Kershner (1980)\
+Star Wars, épisode V : L'empire contre-attaque de Irvin Kershner (1980)\
 Ant-man de Peyton Reed (2015)\
 Captain America: First Avenger de Joe Johnston (2011)\
 Salesman de David Maysles, Albert Maysles et Charlotte de Zwerin (1968)\
@@ -2253,7 +2254,7 @@ Celeste and Jess Forever de Leo Toland Krieger (2012)\
 Jurassic Park de Steven Spielberg (1993)\
 Le monde perdu : Jurassic Park de Steven Spielberg (1997)\
 The Master de Paul Thomas Anderson (2012)\
-Ce plaisie qu'on dit charnel de Mike Nichols (1971)\
+Ce plaisir qu'on dit charnel de Mike Nichols (1971)\
 The Devil's rejects de Rob Zombie (2005)\
 Scream 3 de Wes Craven (2000)\
 Evil Dead 3 de Sam Raimi (1993)\
@@ -2953,7 +2954,6 @@ House of the dragon de Ryan Condal & George R. R. Martin (Série TV) (Depuis 202
 Peter et Elliott le dragon de David Lowery (2016)\
 La belle au bois dormant de Clyde Geronimi (1959)\
 Le dragon du lac de feu de Matthew Robbins (1981)\
-Star Wars, épisode V : L'empire contre-attaque de Irvin Kershner (1980)\
 Le cercle des poètes disparus de Peter Weir (1989)\
 Le géant de fer de Brad Bird (1999)\
 Le robot sauvage de Chris Sanders (2024)\
@@ -2985,3 +2985,38 @@ Naruto Shippuden de Hayato Date (Série Animée) (2007-2017)\
 Coco de Lee Unkrich & Adrian Molina (2017)\
 Ma vie de courgette de Claude Barras (2016)
 
+# <a name='edwards'></a>Gareth Edwards
+Jurassic World : Renaissance de Gareth Edwards (2025)\
+Monsters de Gareth Edwards (2010)\
+The creator de Gareth Edwards (2023)\
+Godzilla 2 : Roi des monstres de Michael Dougherty (2019)\
+Terminator 2 : Le jugement dernier de James Cameroun (1991)\
+In search of a midnight kiss de Alex Holdrige (2007)\
+Les nerfs à vif de Martin Scorsese (1991)\
+THX 1138 de George Lucas (1971)\
+American Graffitti de George Lucas (1973)\
+Star Wars, épisode VI : Le retour du jedi de Richard Marquand (1983)\
+La guerre des mondes de Steven Spielberg (2005)\
+District 9 de Neil Blomkamp (2009)\
+Baraka de Ron Fricke (1992)
+
+# <a name='refn2'></a>Nicolas Winding Refn
+Pusher de Nicolas Winding Refn (1996)\
+Only god forgives de Nicolas Winding Refn (2013)\
+Pusher II de Nicolas Winding Refn (2004)\
+Le désert rouge de Michelangelo Antonioni (1964)\
+El topo de Alejandro Jodorowksy (1970)\
+The Killer de John Woo (1989)\
+Le prisonnier de George Markstein & Patrick McGoohan (Série TV) (1967-1968)\
+Riverdale de Roberto Aguirre-Sacasa (Série TV) (2017-2023)\
+La dernière chance de John Huston (1972)\
+Vidéodrome de David Cronenberg (1983)\
+Marée nocturne de Curtis Harrington (1961)\
+Seize bougies pour sam de John Hughes (1984)\
+La vallée des poupées de Mark Robson (1967)\
+La vallée des plaisirs de Russ Meyer (1970)\
+Chair pour Frankenstein de Paul Morrissey & Antonio Margheriti (1973)\
+Flash Gordon de Mike Hodges (1980)\
+Dark star de John Carpenter (1974)\
+John Wick : Chapitre 4 de Chad Stahelski (2023)\
+Ponyo sur la falaise de Hayao Miyazaki (2008)
