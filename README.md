@@ -138,6 +138,8 @@ j'ai rajouté avant l'année (Série TV) pour préciser le fait qu'il parle d'un
 ## [Spike Lee](#lee)
 ## [Angela Bassett](#bassett)
 ## [Les frères Dardenne](#dardenne)
+## [Dean DeBlois](#deblois)
+## [Jean-Pascal Zadi](#zadi)
 
 
 # <a name='pitt-leitch'></a>Brad Pitt & David Leitch :
@@ -2575,7 +2577,7 @@ Highlander de Gregory Widen (Série de films) (1992 - 1998)\
 10 jours sans maman de Ludovic Bernard (2020)\
 Un ours dans le jura de Franck Dubosc (2025)\
 Les petites annonces de Elie Semoun & Franck Dubosc\
-Camping Fabien Onteniente (2006)\
+Camping de Fabien Onteniente (2006)\
 Le survivant de Boris Sagal (1971)\
 Je suis une légende de Francis Lawrence (2007)\
 C.R.A.Z.Y de Jean-Marc Vallée (2005)\
@@ -2805,7 +2807,6 @@ Hidalgo de Joe Johnston (2004)\
 Captain Fantastic de Matt Ross (2016)\
 Falling de Viggo Mortensen (2020)\
 Jusqu'au bout du monde de Viggo Mortensen (2024)\
-Le seigneur des anneaux : La communauté de l'anneau de Peter Jackson (2001)\
 Le seigneur des anneaux : Le retour du roi (2003)\
 La passion de Jeanne d'arc de Carl Theodor Dreyer (1928)\
 Le choix de sophie de Alan J.Pakula (1982)\
@@ -2828,7 +2829,6 @@ L'atalante de Jean Vigo (1934)\
 Seuls sont les indomptés de David Miller & Kirk Douglas (1962)\
 L'Homme qui tua Liberty Valance de John Ford (1962)\
 La Rivière rouge de Howard Hawks & Arthur Rosson (1948)\
-Lawrence d'Arabie de David Lean (1962)\
 Le Docteur Jivago de David Lean (1965)
 
 # <a name='goldblum'></a>Jeff Goldblum
@@ -2936,3 +2936,52 @@ Déjà s'envole la fleur magique de Paul Meyer (1960)\
 Meurtre d'un bookmaker chinois de John Cassavetes (1976)\
 Les vacanes d'un cinéaste de Johan van der Keuken (1974)\
 Les âmes mortes de Wang Bing (2018)
+
+# <a name='deblois'></a>Dean DeBlois
+Lilo & Stitch de Dean DeBlois & Chris Sanders (2002)\
+Dragons de Dean DeBlois & Chris Sanders (2010)\
+Dragons 2 de Dean DeBlois (2014)\
+Dragons 3 : Le monde caché de Dean DeBlois  (2019)\
+Mulan de Tony Bancroft & Barry Cook (1998)\
+Les fraises sauvages de Ingmar Bergman (1957)\
+Atlandide, l'empire perdu de Gary Trousdale & Kirk Wise (2001)\
+Le règne du feu de Rob Bowman (2002)\
+Eragon de Stefen Fangmeier (2006)\
+Porco rosso de Hayao Miyazaki (1992)\
+Le hobbit : La désolation de Smaug de Peter Jackson (2013)\
+House of the dragon de Ryan Condal & George R. R. Martin (Série TV) (Depuis 2022)\
+Peter et Elliott le dragon de David Lowery (2016)\
+La belle au bois dormant de Clyde Geronimi (1959)\
+Le dragon du lac de feu de Matthew Robbins (1981)\
+Star Wars, épisode V : L'empire contre-attaque de Irvin Kershner (1980)\
+Le cercle des poètes disparus de Peter Weir (1989)\
+Le géant de fer de Brad Bird (1999)\
+Le robot sauvage de Chris Sanders (2024)\
+Anastasia de Don Bluth & Gary Goldman (1997)\
+L'âge de glace de Carlos Saldanha (2006)
+
+# <a name='zadi'></a>Jean-Pascal Zadi
+Prosper de Yohann Gloaguen (2025)\
+En place de Jean-Pascal Zadi & François Uzan (Série TV) (Depuis 2023)\
+Le grand déplacement de Jean-Pascal Zadi (2025)\
+Porquoi tu souris ? de Chad Chenouga & Christine Paillard (2024)\
+Lumumba de Raoul Peck (2000)\
+Apocalypto de Mel Gibson (2006)\
+CB4 de Tamra Davis (1993)\
+African Gangster de  Jean-Pascal Zadi (2010)\
+Cramé de Jean-Pascal Zadi (2008)\
+Sans pudeur ni morale Jean-Pascal Zadi (2011)\
+Bal poussière de Henri Duparc (1988)\
+Bronx-barbès de Eliane de Latour (2000)\
+Hyènes de Djibril Diop Mambéty (1992)\
+Darat de Mahamat Saleh Haround (2006)\
+Le Direktor de Lars von Trier (2006)\
+Un pigeon perché sur un branche philosophait sur l'existence de Roy Andersson (2004)\
+Dahomey de Mati Diop (2004)\
+Case départ de Lionel Steketee, Fabrice Eboué & Thomas Ngijol (2011)\
+Scary movie de Keenen Ivory Wayans (2000)\
+Astérix et Obélix : Le combat des chefs de Alain Chabat (2025)\
+Naruto Shippuden de Hayato Date (Série Animée) (2007-2017)\
+Coco de Lee Unkrich & Adrian Molina (2017)\
+Ma vie de courgette de Claude Barras (2016)
+
