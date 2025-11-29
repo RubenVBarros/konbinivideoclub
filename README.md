@@ -33,6 +33,8 @@ j'ai rajouté avant l'année (Série TV) pour préciser le fait qu'il parle d'un
 ## [Romain Gavras](#gavras)
 ## [Louis Garrel](#garrel)
 ## [Bertrand Blier](#blier)
+## [Julia Ducournau](#ducournau)
+## [David Cronenberg](#cronenberg)
 ## [Charlotte Gainsbourg & Yvan Attal](#gainsbourg-attal)
 ## [Dany Boon](#boon)
 ## [Claude Lelouch](#lelouch)
@@ -142,6 +144,18 @@ j'ai rajouté avant l'année (Série TV) pour préciser le fait qu'il parle d'un
 ## [Jean-Pascal Zadi](#zadi)
 ## [Gareth Edwards](#edwards)
 ## [Nicolas Winding Refn](#refn2)
+## [James Gunn](#gunn)
+## [Tim Burton](#burton)
+## [Julia Ducournau](#durcournau2)
+## [Darren Aronofsky](#aronofsky)
+## [Christian Clavier](#clavier)
+## [Isabelle Huppert](#huppert)
+## [Hafsia Herzi](#herzi)
+## [Natalie Portman](#portman)
+## [Orelsan & David Tomaszewski](#orelsan-tomaszewski)
+## [Guillermo Del Toro](#del-toro)
+## [Edgar Wright](#wright)
+## [Benoît Poelvoorde](#poelvoorde)
 
 # <a name='pitt-leitch'></a>Brad Pitt & David Leitch :
 Fight Club de David Fincher (1999)\
@@ -3020,3 +3034,61 @@ Flash Gordon de Mike Hodges (1980)\
 Dark star de John Carpenter (1974)\
 John Wick : Chapitre 4 de Chad Stahelski (2023)\
 Ponyo sur la falaise de Hayao Miyazaki (2008)
+
+# <a name='gunn'></a>James Gunn
+The Suicide Squad de James Gunn (2021)\
+Les gardiens de la galaxie de James Gunn (2014)\
+Les gardiens de la galaxie vol.3 de James Gunn (2016)\
+Horribilis de James Gunn (2006)\
+Peacemaker de James Gunn (Série TV) (Depuis 2022)\
+Super de James Gunn (2010)
+Superman de James Gunn (2025)\
+The Villainess de Jeong Byeong-gil (2017)\
+Frankenstein de James Whale (1931)\
+A tout épreuve de John Woo (1992)\
+Rescue Dawn de Werner Herzog (2006)\
+Together de Lukas Moodysson (2000)\
+Fucking Amal de Lukas Moodysson (1998)\
+Flow de Gints Zilbalodis (2024)\
+Companion de Drew Hancock (2025)\
+Paddington 2 de Paul King (2017)\
+Henry, portrait d'un serial killer de John McNaughton (1986)\
+Bob et Carole et Ted et Alice de Paul Mazursky (1969)\
+Brightburn : L'enfant du mal de David Yarovesky (2019)\
+Spider-man : New Generation de Bob Persichetti, Peter Ramsey & Rodney Rothman (2018)\
+Iron Man de Jon Favreau (2008)\
+La fabuleuse Madame Maisel de Amy-Sherman Palladino (Série TV) (2017-2023)\
+Parks & Recreation de Greg Daniels & Michael Schur (Série TV) (2009-2015)\
+Firefly de Joss Whedon (Série TV) (2002-2003)\
+Et pour quelques dollars de plus de Sergio Leone (1965)\
+Héros d'occasion de Preston Sturges (1944)\
+New York-Miami de Frank Capra (1934)\
+La dame du vendredi de Howard Hawks (1940)\
+American Pie de Paul Weitz (1999)\
+Les indestructibles de Brad Bird (2004)\
+Scooby-doo de Raja Gosneil (2002)\
+Revenge de Coralie Fargeat (2017)\
+La planète des singes : L'affrontement de Matt Reeves (2014)
+
+# <a name='burton'></a>Tim Burton
+
+# <a name='ducournau2'></a>Julia Ducournau
+
+# <a name='aronofsky'></a>Darren Aronofsky
+
+# <a name='clavier'></a>Christian Clavier
+
+# <a name='huppert'></a>Isabelle Huppert
+
+# <a name='herzi'></a>Hafsia Herzi
+
+# <a name='portman'></a>Natalie Portman
+
+# <a name='orelsan-tomaszewski'></a>Orelsan & David Tomaszewski
+
+# <a name='del-toro'></a>Guillermo Del Toro
+
+# <a name='wright'></a>Edgar Wright
+
+# <a name='poelvoorde'></a>Benoît Poelvoorde
+
