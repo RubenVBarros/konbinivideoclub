@@ -1,7 +1,12 @@
 # Konbini Video Club
 Ceci est un github qui récapitule les films cités par les personnes qui sont passées dans le Konbini Video Club.
 
-Je n'ai pas mis les doublons de films quand un film fait par le même réalisateur a été cité dans deux épisodes différents , je ne l'ai pas mis dans la liste, j'ai du peut être en oublié car la liste m'a vraiment pris du temps à faire et il y'a tellement de titre à faire que c'est super long, à priori il n'y a pas de doublons, les seuls doublons qui sont présents sont les doublons qui sont réalisées par d'autres réalisateurs (Exemple : Suspiria réalisé par Argento et celui réalisé par Guadagnino), il y'a peut être quelques films que j'ai oublié parce que au début je pensais que j'allais la garder pour moi mais j'ai changé mon avis. Du coup certains films je l'ai ai pas mis parce que je l'ai pas vraiment aimé.
+Je n'ai pas mis les doublons de films quand un film fait par le même réalisateur a été cité dans deux épisodes différents , 
+je ne l'ai pas mis dans la liste, j'ai du peut être en oublié car la liste m'a vraiment pris du temps à faire et il y'a tellement de titre à faire que c'est super long, 
+à priori il n'y a pas de doublons, les seuls doublons qui sont présents sont les doublons qui sont réalisées par d'autres réalisateurs 
+(Exemple : Suspiria réalisé par Argento et celui réalisé par Guadagnino), 
+il y'a peut être quelques films que j'ai oublié parce que au début je pensais que j'allais la garder pour moi mais j'ai changé mon avis. 
+Du coup certains films je l'ai ai pas mis parce que je l'ai pas vraiment aimé.
 
 > Je sais qu'une liste existe sur SensCritique mais elle n'est pas complète au moment ou j'ai décidé de faire cette liste sinon je l'aurais pas faite.
 
@@ -382,7 +387,7 @@ Irréversible de Gaspar Noé (2002)\
 La règle du jeu de Jean Renoir (1939)\
 Itinéraire d’un enfant gâté de Claude Lelouch (1988)\
 Mean Streets de Martin Scorsese (1978)\
-The Last Waltz de Martin Scorsese (1976)\
+The Last Waltz ou la dernière valse de Martin Scorsese (1976)\
 The day the ponies comes back de Jerry Schatzberg (2001)\
 Panique à needle park de Jerry Schatzberg (1971)\
 Magnolia de Paul Thomas Anderson (2000)\
@@ -3134,7 +3139,23 @@ Blink Twice de Zoë Kravitz (2024)\
 The Whale de Darren Aronofsky (2022)
 
 # <a name='clavier'></a>Christian Clavier
-
+Le million de Grégoire Vigneron (2025)\
+Les anges gardiens de Jean-Marie Poiré (1995)\
+Babysitting 2 de Philippe Lacheau & Nicolas Benamou
+Mes meilleurs copains de Jean-Marie Poiré (1989)\
+Les profs de Pierre François Martin-Laval (2013)\
+Qu'est ce qu'on a fait au bon dieu de Philippe de Chauveron (2014)\
+Fellini Roma de Federico Fellini (1972)\
+Pain et chocolat de Franco Brusati (1974)\
+Tatie Danielle de Etienne Chatiliez (1990)\
+Pouic pouic de Jean Girault (1963)\
+On ne choisit pas sa famille de Christian Clavier (2011)\
+Astérix & Obélix : Au service de sa majesté de Laurent Tirard (2012)\
+Molière de Laurent Tirard (2007)\
+Astérix : Le secret de la potion magique de Louis Clichy & Alexandre Astier (2018)\
+Faîtes-le avec les doigts de Ken Shapiro (1974)\
+L'homme sauvage de Robert Mulligan (1968)\
+Spéciale première de Billy Wilder (1974)
 
 # <a name='huppert'></a>Isabelle Huppert
 
