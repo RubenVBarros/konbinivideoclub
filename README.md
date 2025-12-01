@@ -1962,7 +1962,7 @@ Ballroom dancing de Baz Luhrmann (1992)\
 Gatsby le magnifique de Baz Luhrmann (2013)
 
 # <a name='godard'></a>Hommage à Jean-Luc Godard :
-Alphaville de Jean-Luc Godard (1965)\
+Alphavill, une étrange aventure de lemmy caution de Jean-Luc Godard (1965)\
 Hélas pour moi de Jean-Luc Godard (1993)\
 Prénom Carmen de Jean-Luc Godard  (1983)\
 Masculin Féminin de Jean-Luc Godard (1966)
@@ -3117,7 +3117,21 @@ Serial Mother de John Waters (1994)\
 Cry-baby de John Waters (1990)
 
 # <a name='aronofsky'></a>Darren Aronofsky
-
+Pi de Darren Aronofsky (1998)\
+Tetsuo de Shin'ya Tsukamoto (1989)\
+Pris au piège - Caught Stealing de Darren Aronofsky (2025)\
+Frantic de Roman Polanski (1988)\
+Nobody de Ilya Naishuller (2021)\
+Le pape de greenwich village de Stuart Rosenberg (1984)\
+The Wrestler de Darren Aronofsky (2008)\
+After Hours de Martin Scorsese (1985)\
+Mother! de Darren Aronofsky (2017)\
+Les pirates du métro de Joseph Sargeant (1974)\
+Un parfait inconnu de James Mangold (2024)\
+Stop making sense de Jonathan Demme (1984)\
+Dangereuse sous tous rapports de Jonathan Demme (1986)\
+Blink Twice de Zoë Kravitz (2024)\
+The Whale de Darren Aronofsky (2022)
 
 # <a name='clavier'></a>Christian Clavier
 
