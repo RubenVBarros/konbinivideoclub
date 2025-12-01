@@ -3158,6 +3158,27 @@ L'homme sauvage de Robert Mulligan (1968)\
 Spéciale première de Billy Wilder (1974)
 
 # <a name='huppert'></a>Isabelle Huppert
+Elle de Paul Verhoeven (2016)\
+Huit femmes de François Ozon (2002)\
+Rosebud de Otto Preminger (1975)\
+Coup de foudre de Diane Kurys (1983)\
+Mon crime de François Ozon (2023)\
+Dix pour cent de Fanny Herrero (Série TV) (2015-2020)\
+L'inondation de Igor Minaiev (1993)\
+Funny games de Michael Haneke (1997)\
+Le jardin des Fitzi-Contini de Vittorio de Sica (1970)\
+Babygirl de Halina Reijn (2024)\
+Haute société de Charles Walters (1958)\
+Le plongeon de Frank Perry (1968)\
+Autopsie d'un meurtre de Otto Preminger (1959)\
+Enquête sur une passion de Nicolas Roeg (1980)\
+Maps to the stars de David Cronenberg (2014)\
+Inglorious Basterds de Quentin Tarantino (2009)\
+The Last showgirl de Gia Coppola (2024)\
+Last stop : Yuma County de Francis Galluppi (2023)\
+The Brutalist de Brady Corbet (2024)\
+Les graines du figuier sauvage de Mohammad Rasoulof(2024)\
+Le cheval de Turin de Béla Tarr (2011)
 
 
 # <a name='herzi'></a>Hafsia Herzi
