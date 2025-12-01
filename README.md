@@ -2637,7 +2637,7 @@ Le chemin sans retour de Jesse Holland & Andy Mitton (2010)\
 Les diables de Ken Russell (1971)\
 Les innocents de Jack Clayton (1961)\
 The Lost City of Z de James Gray (2016)\
-<!-- Maman, j'ai raté l'avion de Chris Columbus (1990) -->
+Maman, j'ai raté l'avion de Chris Columbus (1990)
 
 # <a name='stiller'></a>Ben Stiller
 Zoolander 2 de Ben Stiller (2016)\
@@ -3204,7 +3204,26 @@ Miséricorde de Alain Guiradie (2024)\
 Aladdin de John Musker & Ron Clements (1992)
 
 # <a name='portman'></a>Natalie Portman
-
+Leon de Luc Besson (1994)\
+Fog de Ugo Bienvenu & Kevin Manach (2015)\
+At the door de Mike Burakoff (2019)\
+Arco de Ugo Bienvenu (2025)\
+L'année dernière à Marienbad de Alain Resnais (1961)\
+L'arriviste de Alexander Payne (1999)\
+Jumanji de Joe Johnston (1995)\
+Antman de Ugo Bienvenu & Kevin Manach (2017)\
+Star Wars, épisode II de George Lucas (2002)\
+Casper de Brad Silberling (1995)\
+My girl de Howard Zieff (1991)\
+Ninotchka de Ernst Lubitsch (1939)\
+Die Hard 2 de Renny Harlin (1990)\
+Le come-back de Marc Lawrence (2007)\
+Le journal de Bridget Jones de Sharon Maguire (2001)\
+Stories we tell de Sarah Polley (2012)\
+Maman j'ai encore raté l'avion de Chris Columbus (1992)\
+Veuve mais pas trop de Jonathan Demme (1988)\
+Neverland de Marc Forster (2004)\
+Peter Pan de Clyde Geronimi, Wilfred Jackson & Hamilton Luske (1953)
 
 # <a name='orelsan-tomaszewski'></a>Orelsan & David Tomaszewski
 
