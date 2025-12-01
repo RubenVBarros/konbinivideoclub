@@ -3071,6 +3071,39 @@ Revenge de Coralie Fargeat (2017)\
 La planète des singes : L'affrontement de Matt Reeves (2014)
 
 # <a name='burton'></a>Tim Burton
+Mercredi de Alfred Gough & Miles Millar (Série TV) (2022)\
+Alice au pays des merveilles de Tim Burton (2010)\
+Charlie et la chocolaterie de Tim Burton (2005)\
+Les noces funèbres de Tim Burton & Mike Johnson (2005)\
+Sweeney Todd : Le diabolique barbier de fleet street de Tim Burton (2007)\
+La planète des singes de Tim Burton (2001)\
+Ed wood de Tim Burton (1994)\
+Beetlejuice Beetlejuice de Tim Burton (2024)\
+Batman : Le défi de Tim Burton (1992)\
+Frankenweenie de Tim Burton (2012)\
+Miss Peregrine et les enfants particuliers de Tim Burton (2016)\
+La guerre des monstres de Ishiro Honda (1966)\
+Les envahisseurs attaquent de Ishiro Honda (1968)\
+Invasion planète X de Ishiro Honda (1965)\
+Godzilla de Ishiro Honda (1954)\
+Godzilla, king of the monsters de Ishiro Honda (1957)\
+Onibaba de Kaneto Shindo (1954)\
+Kuroneko de Kaneto Shindo (1968)\
+I was a teenage werewolf de Gene Fowler Jr. (1957)\
+I was a teenage frankenstein de Herbert L. Strock (1957)\
+Le cerveau qui ne voulait pas mourir de Joseph Green (1962)\
+Dracula 73 de Alan Gibson (1972)\
+Quand les dinosaures dominaient le monde de Val Guest (1970)\
+Je suis une légende de Ubaldo Ragona & Sidney Salkow (1964)\
+La chute de la maison Usher de Roger Corman (1960)\
+Vincent de Tim Burton (1982)\
+Sleepy Hollow de Tim Burton (1999)\
+La famille addams de Barry Sonnenfeld (1991)\
+The addams family de Charles Addams (1938)\
+Devdas de Sanjay Leela Bhansali (2002)\
+Jason et les argonautes de Don Chaffney (1963)\
+Ray Harryhausen : Le titan des effets spéciaux de Gilles Penso (2012)\
+James et la pêche géante de Henry Selick (1996)
 
 # <a name='ducournau2'></a>Julia Ducournau
 
