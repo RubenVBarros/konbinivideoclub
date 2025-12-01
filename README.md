@@ -3106,22 +3106,39 @@ Ray Harryhausen : Le titan des effets spéciaux de Gilles Penso (2012)\
 James et la pêche géante de Henry Selick (1996)
 
 # <a name='ducournau2'></a>Julia Ducournau
+Alpha de Julia Ducournau (2025)\
+Adolescence de Jack Thorne & Stephen Graham (2025)\
+Requiem for a dream de Darren Aronofsky (2000)\
+Cria Cuervos de Carlos Saura (1976)\
+Théorème de Pier Paolo Pasolini (1968)\
+Malignant de James Wan (2021)\
+Elephant de Alan Clarke (1989)\
+Serial Mother de John Waters (1994)\
+Cry-baby de John Waters (1990)
 
 # <a name='aronofsky'></a>Darren Aronofsky
 
+
 # <a name='clavier'></a>Christian Clavier
+
 
 # <a name='huppert'></a>Isabelle Huppert
 
+
 # <a name='herzi'></a>Hafsia Herzi
+
 
 # <a name='portman'></a>Natalie Portman
 
+
 # <a name='orelsan-tomaszewski'></a>Orelsan & David Tomaszewski
+
 
 # <a name='del-toro'></a>Guillermo Del Toro
 
+
 # <a name='wright'></a>Edgar Wright
+
 
 # <a name='poelvoorde'></a>Benoît Poelvoorde
 
