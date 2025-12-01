@@ -3180,9 +3180,28 @@ The Brutalist de Brady Corbet (2024)\
 Les graines du figuier sauvage de Mohammad Rasoulof(2024)\
 Le cheval de Turin de Béla Tarr (2011)
 
-
 # <a name='herzi'></a>Hafsia Herzi
-
+Un homme et son chien de Francis Hustler (2008)\
+Borgo de Stéphane Demoustier (2023)\
+La source des femmes de Radu Mihaileanu (2011)\
+La petite dernière de Hafsai Herzi (2025)\
+La graine et le mulet de Abdellatif Kechiche (2007)\
+L'apollonide : souvenirs de la maison close de Bertrand Bonello (2011)\
+La prisonnière de bordeaux de Patricia Mezuy (2024)\
+Les gens d'à coté de André Téchiné (2024)\
+L'argent de la vieille de Luigi Comencini (1972)\
+Bonne mère de Hafsia Herzi (2021)\
+Mama roma de Pier Paolo Pasolini (1976)\
+César de Marcel Pagnol (1936)\
+Marius de Alexandre Kodra (1931)\
+Fanny de Marc Allégret (1932)\
+L'esquive de Abdellatif Kechiche (2023)\
+Entre les murs de Laurent Cantet (2008)\
+La fille au bracelet de Stéphane Demoustier (2019)\
+Diamant brut de Agathe Riedinger (2024)\
+I love america de Liza Azuelos (2021)\
+Miséricorde de Alain Guiradie (2024)\
+Aladdin de John Musker & Ron Clements (1992)
 
 # <a name='portman'></a>Natalie Portman
 
