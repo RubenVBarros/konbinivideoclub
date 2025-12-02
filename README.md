@@ -3301,4 +3301,21 @@ L'âge de cristal de Michael Anderson (1976)\
 Series 7 : The Contenders de Daniel Minahan (2001)
 
 # <a name='poelvoorde'></a>Benoît Poelvoorde
-
+C'est arrivé près de chez vous de Rémy Belvaux & André Bonzel (1992)\
+Les émotifs anonymes de Jean-Pierre Améris (2010)\
+Le tout nouveau testament de Jaco von Dormael (2014)\
+La bonne étoile de Pascal Elbé (2025)\
+Le randonneur de Phillipe Harel (1997)\
+7 jours pas plus de Hector Cabello Reye (2017)\
+L'homme orchestre de Serge Korber (1970)\
+Bons baisers... A Lundi de Michel Audiard (1974)\
+Entre ses mains de Anne Fontaine (2005)\
+My childhood de Bill Douglas (1972)\
+Les vétos de Julie Manoukian (2019)\
+Couleurs de l'incendie de Clovis Cornillac (2022)\
+Portrait de femme de Jane Campion (1996)\
+La rose pourpre du caire de Woody Allen (1985)\
+Strip tease de Marco Lamensch & Jean Libon (Série de reportage) (1985-2002)\
+Fahrenheit 9/11 de Michael Moore (2004)\
+Il bidone de Federico Fellini (1955)\
+Mickey 17 de Bong Joon-ho (2025)
