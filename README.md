@@ -3226,7 +3226,27 @@ Neverland de Marc Forster (2004)\
 Peter Pan de Clyde Geronimi, Wilfred Jackson & Hamilton Luske (1953)
 
 # <a name='orelsan-tomaszewski'></a>Orelsan & David Tomaszewski
-
+L'odeur de l'essence de Orelsan (2001)\
+N'importe comment de Toxic Avenger (feat Orelsan.) de David Tomaszewski (Clip) (2000)\
+Raelsan de David Tomaszewski (Clip) (2011)\
+F'ckn fred : comme un léopard de Clément Cotentin (2025)\
+Yoroï de David Tomaszewski (2025)\
+Montre jamais ça à personne de Clément Contentin & Christophe Offenstein (2021)\
+Qui veut la peau de Roger Rabbit de Robert Zemeckis (1988)\
+Le septième voyage de Sinbad de Nathan Juran (1958)\
+It's the great pumpkin, charlie brown de Bill Melendez (1966)\
+Max et les maximonstres de Spike Jonze (2009)\
+Butch cassidy & le kid de George Roy Hill (1969)\
+Away we go de Sam Mendes (2009)\
+Edge of Tomorrow de Doug Liman (2014)\
+Hot Fuzz de Edgar Wright (2007)\
+Coco channel & Igor Stravinsky de Jan Kounen (2009)\
+Jigoku de Nobuo Nakagawa (1960)\
+Lady Snowblood de Toshiya Fujita (1973)\
+Baby Cart : Le sabre de la vengeance de Kenji Misumi (1972)\
+House de Nobuhiko Obayashi (1977)\
+The God of Cookery de Stephen Chow & Lee Leek-chi (1996)\
+Saya Zamuraï de Hitoshi Matsumoto (2012)
 
 # <a name='del-toro'></a>Guillermo Del Toro
 
