@@ -3050,7 +3050,7 @@ Super de James Gunn (2010)
 Superman de James Gunn (2025)\
 The Villainess de Jeong Byeong-gil (2017)\
 Frankenstein de James Whale (1931)\
-A tout épreuve de John Woo (1992)\
+A toute épreuve de John Woo (1992)\
 Rescue Dawn de Werner Herzog (2006)\
 Together de Lukas Moodysson (2000)\
 Fucking Amal de Lukas Moodysson (1998)\
@@ -3281,9 +3281,24 @@ Dracula de Tod Browning & Karl Freund (1931)\
 The son of Frankenstein de Rowland V. Lee (1939)\
 Frankenstein et le monstre de l'enfer de Terence Fisher (1974)
 
-
 # <a name='wright'></a>Edgar Wright
-
+Scott Pilgrim de Edgar Wright (2010)\
+Le dernier pub avant la fin du monde de Edgar Wright (2013)\
+The Sparks Brothers de Edgar Wright (2021)\
+Last night in soho de Edgar Wright (2021)\
+Running man de Edgar Wright (2025)\
+Cours, Lola, cours de Tom Twyker (1998)\
+La mémoire dans la peau de Doug Liman (2002)\
+Nico de Andrew Davis (1988)\
+Hit Man de Richard Linklater (2023)\
+New York 1997 de John Carpenter (1981)\
+Grindhouse : Diptyque boulevard de la mort de Quentin Tarrantino et planète terreur de Robert Rodriguez (2007)\
+Cube de Vincenzo Natali (1997)\
+Le guet-apens de Sam Peckinpah (1972)\
+Looker de Michael Crichton (1981)\
+La dixième victime de Elio Petri (1965)\
+L'âge de cristal de Michael Anderson (1976)\
+Series 7 : The Contenders de Daniel Minahan (2001)
 
 # <a name='poelvoorde'></a>Benoît Poelvoorde
 
