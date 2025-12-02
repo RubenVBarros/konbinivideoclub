@@ -3249,6 +3249,37 @@ The God of Cookery de Stephen Chow & Lee Leek-chi (1996)\
 Saya Zamuraï de Hitoshi Matsumoto (2012)
 
 # <a name='del-toro'></a>Guillermo Del Toro
+Pacific Rim de Guillermo Del Toro (2013)\
+Crimson Peak de Guillermo Del Toro (2015)\
+Pinocchio de Guillermo Del Toro & Mark Gustafson (2022)\
+L'échine du diable de Guillermo Del Toro (2001)\
+Frankenstein de Guillermo Del Toro (2025)\
+Edington de Ari Aster (2025)\
+Le secret de la planète des singes de Ted Post (1970)\
+Patlabor de Deen & Toei Animation (1988)\
+Gunnm de Hiroshi Fukotomi (1993)\
+Avatar : de feu et de cendres de James Cameron (2025)\
+Uncut gems de Joshua & Ben Safidie (2019)\
+L'affaire de la mutinerie du caine de William Friedkin (2023)\
+Saltburn de Emerald Fennell (2023)\
+Priscilla de Sofia Coppola (2023)\
+Soupçons de Alfred Hitchcock (1946)\
+Decision to leave de Park Chan-Wook (2022)\
+Les lumières de la ville de Charlie Chaplin (1931)\
+Sherlock Jr. de Buster Keaton (1924)\
+Freaks de Tod Browning (1932)\
+La sorcière de Tod Browning (1925)\
+Susane la perverse de Luis Bunuel (1951)\
+L'enjoleuse de Luis Bunuel (1953)\
+La belle et la bête de Gary Trousdale & Kirk Wise (1991)\
+Dheepan de Jacques Audiard (2015)\
+Les deux légionnaires de James W. Horne (1931)\
+Waterloo de James Whale (1931)\
+The Old Dark House de James Whale (1932)\
+The Invisible Man de James Whale (1933)\
+Dracula de Tod Browning & Karl Freund (1931)\
+The son of Frankenstein de Rowland V. Lee (1939)\
+Frankenstein et le monstre de l'enfer de Terence Fisher (1974)
 
 
 # <a name='wright'></a>Edgar Wright
